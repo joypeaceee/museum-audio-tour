@@ -708,6 +708,12 @@
     setupAudioEvents();
     setupEvents();
     navigateTo('museum-select', { addToHistory: false });
+
+    // HN: Make middle finger tap (KEYCODE_BACK) emit Escape instead of opening native menu
+    if (window.MetaGlassSDK && MetaGlassSDK.navigation) {
+      MetaGlassSDK.navigation.setBackBehavior('escape');
+      console.log('[AudioTour] MetaGlassSDK: back gesture → Escape');
+    }
   }
 
   if (document.readyState === 'loading') {
