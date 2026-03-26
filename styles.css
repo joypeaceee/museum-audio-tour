@@ -1,0 +1,414 @@
+:root {
+  --bg-primary: #0a0a0f;
+  --bg-secondary: #14141f;
+  --bg-tertiary: #1e1e2e;
+  --bg-card: #1a1a2e;
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0b0;
+  --text-muted: #606070;
+  --accent-primary: #00d4ff;
+  --accent-secondary: #00ff88;
+  --accent-warm: #ff9f43;
+  --danger: #ff4466;
+  --focus-ring: #00d4ff;
+  --focus-glow: rgba(0, 212, 255, 0.4);
+  --success: #00ff88;
+  --warning: #ffaa00;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  width: 100vw;
+  height: 100vh;
+  max-width: 600px;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+/* --- Screens --- */
+.screen {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.screen.hidden { display: none; }
+
+/* --- Header --- */
+.header {
+  display: flex;
+  align-items: center;
+  padding: 16px 20px;
+  background: var(--bg-secondary);
+  gap: 12px;
+  flex-shrink: 0;
+}
+.header h1 {
+  font-size: 22px;
+  font-weight: 600;
+  flex: 1;
+}
+.header-meta {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.back-btn {
+  background: transparent;
+  color: var(--text-primary);
+  font-size: 22px;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  border: 2px solid transparent;
+}
+
+/* --- Content Area --- */
+.content {
+  flex: 1;
+  padding: 16px 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* --- Focus States --- */
+.focusable {
+  transition: all 0.15s ease;
+  border: 2px solid transparent;
+  cursor: pointer;
+  min-height: 44px;
+}
+.focusable:focus {
+  outline: none;
+  border-color: var(--focus-ring);
+  box-shadow: 0 0 20px var(--focus-glow);
+}
+
+/* --- Museum Cards --- */
+.museum-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background: var(--bg-card);
+  border-radius: var(--radius-lg);
+  color: var(--text-primary);
+  text-align: left;
+  width: 100%;
+}
+
+.museum-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: var(--radius-md);
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
+.museum-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.museum-name {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.museum-meta {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+/* --- Stop Number Display --- */
+.stop-display {
+  text-align: center;
+  padding: 20px 0 10px;
+  position: relative;
+}
+
+.stop-number {
+  font-size: 56px;
+  font-weight: 700;
+  font-family: 'SF Mono', 'Menlo', 'Courier New', monospace;
+  color: var(--accent-primary);
+  letter-spacing: 8px;
+  min-height: 70px;
+}
+
+.clear-btn {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  background: var(--bg-tertiary);
+  color: var(--accent-warm);
+  border-radius: var(--radius-sm);
+  min-height: 28px;
+  margin-top: 4px;
+}
+
+.stop-hint {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+/* --- Numpad --- */
+.numpad {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 8px;
+  padding: 0 20px;
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.numpad-btn {
+  padding: 16px;
+  font-size: 22px;
+  font-weight: 600;
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  border-radius: var(--radius-md);
+  text-align: center;
+  min-height: 54px;
+}
+
+.numpad-btn:focus {
+  background: var(--bg-card);
+}
+
+.delete-btn {
+  font-size: 20px;
+  color: var(--accent-warm);
+}
+
+.go-btn {
+  background: var(--accent-primary);
+  color: var(--bg-primary);
+  font-weight: 700;
+}
+.go-btn:focus {
+  background: #33ddff;
+}
+
+/* --- Built-in Browser --- */
+.browser-content {
+  padding: 0;
+  position: relative;
+}
+
+.browser-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: #ffffff;
+}
+
+/* --- Native Audio Player --- */
+.player-content {
+  padding: 0 20px 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.player-ui {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  padding-top: 12px;
+}
+
+.player-artwork {
+  width: 120px;
+  height: 120px;
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.player-artwork-label {
+  font-size: 48px;
+}
+
+.player-info {
+  text-align: center;
+}
+
+.player-track-title {
+  font-size: 16px;
+  font-weight: 600;
+  max-width: 460px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.play-pause-btn {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  color: var(--bg-primary);
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+}
+.play-pause-btn:focus {
+  background: #33ddff;
+}
+
+.progress-container {
+  width: 100%;
+  max-width: 460px;
+}
+
+.progress-bar {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-tertiary);
+  outline: none;
+  cursor: pointer;
+}
+.progress-bar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  cursor: pointer;
+}
+.progress-bar::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  border: none;
+  cursor: pointer;
+}
+.progress-bar:focus {
+  border-color: var(--focus-ring);
+  box-shadow: 0 0 12px var(--focus-glow);
+}
+
+.time-display {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 6px;
+  font-family: 'SF Mono', 'Menlo', 'Courier New', monospace;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.error-url {
+  font-size: 13px;
+  color: var(--text-muted);
+  word-break: break-all;
+  max-width: 400px;
+  margin-top: 8px;
+}
+
+/* --- Loading --- */
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 40px;
+  flex: 1;
+}
+.loading-spinner {
+  width: 48px;
+  height: 48px;
+  border: 4px solid var(--bg-tertiary);
+  border-top-color: var(--accent-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text {
+  font-size: 16px;
+  color: var(--text-secondary);
+}
+
+/* --- Error --- */
+.error-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 40px;
+  text-align: center;
+}
+.error-icon { font-size: 48px; }
+.error-message {
+  font-size: 16px;
+  color: var(--text-secondary);
+  max-width: 400px;
+}
+
+/* --- Nav Item (reused for buttons) --- */
+.nav-item {
+  padding: 14px 24px;
+  background: var(--bg-tertiary);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+}
+.nav-item.primary {
+  background: var(--accent-primary);
+  color: var(--bg-primary);
+}
+.nav-item.primary:focus { background: #33ddff; }
+
+/* --- Toast --- */
+.toast {
+  position: fixed;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%) translateY(100px);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  padding: 12px 24px;
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  border: 1px solid var(--accent-primary);
+  transition: transform 0.3s ease;
+  z-index: 100;
+  pointer-events: none;
+}
+.toast.visible { transform: translateX(-50%) translateY(0); }
+.toast.error { border-color: var(--danger); }
+
+.hidden { display: none !important; }

@@ -1,0 +1,974 @@
+{
+  "200": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvMnRhaWMxcmxrZV8yMDBfRWxpemFiZXRoX011cnJheV9JbnRyb2R1Y3Rpb24ubXAzIl1d/200%20Elizabeth%20Murray%20Introduction.mp3?sha=df66f0c58e273131",
+    "title": "Introduction to Elizabeth Murray: Painters Progress"
+  },
+  "203": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvNDdrNzY0cmx1dl8yMDNfRWxpemFiZXRoX011cnJheV9QYWludGVyc19Qcm9ncmVzcy5tcDMiXV0/203%20Elizabeth%20Murray%20Painters%20Progress.mp3?sha=c2cc9393914785e9",
+    "title": "Elizabeth Murray. Painters Progress. spring 1981"
+  },
+  "204": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvNmg0ajZ0bWN5YV8yMDRfRWxpemFiZXRoX011cnJheV9ZaWtlcy5tcDMiXV0/204%20Elizabeth%20Murray%20Yikes.mp3?sha=f4c44b0a171aff9d",
+    "title": "Elizabeth Murray. Yikes. January-February 1982"
+  },
+  "205": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMTAvMzEvYXF6ZXlqdjUyXzIwNWUubXAzIl1d/205e.mp3?sha=45c9c710afa8496a",
+    "title": "Haegue Yang. Sallim. 2009"
+  },
+  "206": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvNjF0MW5hdHdxZV8yMDZfRWxpemFiZXRoX011cnJheV9EaXNfUGFpci5tcDMiXV0/206%20Elizabeth%20Murray%20Dis%20Pair.mp3?sha=ae7488c6dee1480c",
+    "title": "Elizabeth Murray. Dis Pair. fall 1989 - winter 1990"
+  },
+  "p350s749": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMDQvMTAvNm0wY3Fua2Nlal9VU0EyMDQxNVNfRUxJWkFCRVRIX01VUlJBWV9ET19USEVfREFOQ0VfMy5tcDMiXV0/USA20415S_ELIZABETH_MURRAY_DO_THE_DANCE_3.mp3?sha=12389400f2eba3fd",
+    "title": "Elizabeth Murray. Do The Dance. 2005"
+  },
+  "211": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvMnRyMWNqODNpNV8yMTFfU2lsdmlhX1Jvc2lfU3Bvc2FfVG9nb2xlc2VfRGlzaW50ZWdyYXRhX3YyLm1wMyJdXQ/211%20Silvia%20Rosi%20Sposa%20Togolese%20Disintegrata_v2.mp3?sha=ed0c027b884bc895",
+    "title": "Silvia Rosi. Sposa togolese disintegrata (Disintegrated Togolese Wife). 2024"
+  },
+  "210": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvOWI3MnNsbTl1dV8yMTBfT3VtYXJfS2FfVW50aXRsZWRfVHdvX1dvbWVuX3dpdGhfVGhhdGNoZWRfUm9vZl9Ib3VzZV8ubXAzIl1d/210%20Oumar%20Ka%20Untitled%20%28Two%20Women%20with%20Thatched%20Roof%20House%29.mp3?sha=a789f744c3db2e53",
+    "title": "Oumar Ka. Untitled (Two Women with Thatched Roof House). 1959\u201368"
+  },
+  "212": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvM2RrMGR3a2VzbV8yMTJfSW50cm9kdWN0aW9uX3RvX0lkZWFzX29mX0FmcmljYV9TZXlkb3VfS2VpdGFfVW50aXRsZWQubXAzIl1d/212%20Introduction%20to%20Ideas%20of%20Africa%20-%20Seydou%20Keita%20Untitled.mp3?sha=e3ace63a690cb226",
+    "title": "Introduction to Ideas of Africa: Portraiture and Political Imagination"
+  },
+  "213": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvNmhsM252N3c3MV8yMTNfSmFtZXNfQmFybm9yX1BvcnRyYWl0X29mX0V2ZWx5bl9BYmJldy5tcDMiXV0/213%20James%20Barnor%20Portrait%20of%20Evelyn%20Abbew.mp3?sha=e1ecd33c04ca592d",
+    "title": "James Barnor. Portrait of Evelyn Abbew, Ever Young Studio, Accra. c. 1954\u201359"
+  },
+  "214": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvZDJ1cmF2MjN4XzIxNF9TYW5sZV9Tb3J5X0xlX3ZveWFnZXVyLm1wMyJdXQ/214%20Sanle%20Sory%20Le%20voyageur.mp3?sha=00ff321e95999484",
+    "title": "Sanl\u00e9 Sory. Le Voyageur (The Traveler). 1970\u201385"
+  },
+  "215": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDIvMWgxdGkxcmIxNF8yMTVfU2FtdWVsX0Zvc3NvX0FmcmljYW5fU3Bpcml0c19WMy5tcDMiXV0/215%20Samuel%20Fosso%20African%20Spirits_V3.mp3?sha=caae04aa4b2186a7",
+    "title": "Samuel Fosso. Untitled from the series African Spirits. 2008"
+  },
+  "216": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvOXVkdXFxaGFkbF8yMTZfSkRfT2toYWlfT2plaWtlcmVfQnJ1c2hfRWtvX0JyaWRnZS5tcDMiXV0/216%20JD%20Okhai%20Ojeikere%20Brush%20Eko%20Bridge.mp3?sha=a64446fb6e98115b",
+    "title": "J.D. 'Okhai Ojeikere. Brush Eko Bridge. 1973"
+  },
+  "217": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvM2J2ZHIxazdod18yMTdfSmVhbl9EZXBhcmFfVW5fSmF6emV1ci5tcDMiXV0/217%20Jean%20Depara%20Un%20Jazzeur.mp3?sha=394e8e992ae0fa48",
+    "title": "Jean Depara. Un Jazzeur (Jazzman). 1960"
+  },
+  "2172": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvM2xva3RuOWtzMV8yMTcyX0plYW5fRGVwYXJhX0xlb3BvbGR2aWxsZV9sYV9udWl0Lm1wMyJdXQ/2172%20Jean%20Depara%20Leopoldville%20la%20nuit.mp3?sha=7718311bea870953",
+    "title": "Jean Depara. L\u00e9opoldville la nuit (L\u00e9opoldville by Night). 1958"
+  },
+  "p346s4761": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvOTUzZ2M3bW95Y19MYW1JbnRyby5tcDMiXV0/LamIntro.mp3?sha=61a84a9110e9e68d",
+    "title": "Wifredo Lam. Untitled (Portrait of Yam Lam). 1922"
+  },
+  "321": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvNzhudTMzcWsyZ18zMjFfV2lmcmVkb19MYW1fRG91bGV1cl9kZV9sX0VzcGFnbmVfRURJVC5tcDMiXV0/321%20Wifredo%20Lam%20Douleur%20de%20l%27Espagne_EDIT.mp3?sha=8a744bc8da5438a4",
+    "title": "Wifredo Lam. Douleur de l\u2019Espagne (Sorrow of Spain). 1938"
+  },
+  "322": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjAvMDMvMTEvOHZrOTEwdGFmaF8zMjJlX09wdXMyMTcubXAzIl1d/322e_Opus217.mp3?sha=8640d9a97829efef",
+    "title": "Paul Signac. Opus 217. Against the Enamel of a Background Rhythmic with Beats and Angles, Tones, and Tints, Portrait of M. F\u00e9lix F\u00e9n\u00e9on in 1890. 1890"
+  },
+  "323": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvOGt4cXl5OTd0XzMyM19XaWZyZWRvX0xhbV9MYV9KdW5nbGFfRURJVC5tcDMiXV0/323%20Wifredo%20Lam%20La%20Jungla_EDIT.mp3?sha=155f7556881ba673",
+    "title": "Wifredo Lam. La Jungla (The Jungle). 1942\u201343"
+  },
+  "324": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDUvM2F6cHQ2eXEwaF8zMjRfV2lmcmVkb19MYW1fUmV0b3Jub19hbF9wYWlzX25hdGFsLm1wMyJdXQ/324%20Wifredo%20Lam%20Retorno%20al%20pais%20natal.mp3?sha=552251789d67441c",
+    "title": "Wifredo Lam, Aim\u00e9 C\u00e9saire. Retorno al pa\u00eds natal (Return to the Native Land). 1942"
+  },
+  "325": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvNjNjNjRvcHkzdF8zMjVfV2lmcmVkb19MYW1fTWFsZW1ib19EaWV1X2R1X2NhcnJlZm91ci5tcDMiXV0/325%20Wifredo%20Lam%20%20Malembo,%20Dieu%20du%20carrefour.mp3?sha=4d140816f1080647",
+    "title": "Wifredo Lam. Le Sombre Malembo, Dieu du carrefour (The Somber Malembo, God of the Crossroads). 1943"
+  },
+  "327": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvMWZ4dzh4a3Azal8zMjdfV2lmcmVkb19MYW1fTW90aHNfYW5kX0NhbmRsZXMubXAzIl1d/327%20Wifredo%20Lam%20Moths%20and%20Candles.mp3?sha=d9afb7d176a47d98",
+    "title": "Wifredo Lam. Moths and Candles. 1946"
+  },
+  "328": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvN3ltZzBhcGl1M18zMjhfV2lmcmVkb19MYW1fTGFfTWFyY2hldXNlX2Rlc19pbGVzLm1wMyJdXQ/328%20Wifredo%20Lam%20La%20Marcheuse%20des%20iles.mp3?sha=6e6f61c86e34de80",
+    "title": "Wifredo Lam. La Marcheuse des \u00eeles (The Island Walker). 1944"
+  },
+  "329": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvbnpuZGg5bnBnXzMyOV9XaWZyZWRvX0xhbV9OYXRpdml0ZS5tcDMiXV0/329%20Wifredo%20Lam%20Nativite.mp3?sha=13fd03201f4a7061",
+    "title": "Wifredo Lam. Nativit\u00e9 (Nativity). 1947"
+  },
+  "326": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMjEvNzIzdWc0bmViZF8zMjZfV2lmcmVkb19MYW1fRmVtbWVfQ2hldmFsX0VESVRfdjIubXAzIl1d/326%20Wifredo%20Lam%20Femme-Cheval_EDIT-v2.mp3?sha=79933d80233d880a",
+    "title": "Wifredo Lam. Je suis (I Am). 1949"
+  },
+  "330": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvOGd0NTg4ZmMxNl8zMzBfV2lmcmVkb19MYW1fR3JhbmRlX0NvbXBvc2l0aW9uLm1wMyJdXQ/330%20Wifredo%20Lam%20Grande%20Composition.mp3?sha=84c593487a20cb66",
+    "title": "Wifredo Lam. Grande Composition. 1949"
+  },
+  "331": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvOWQ1ZTJmb3F6eF8zMzFfV2lmcmVkb19MYW1fQnJvdXNzZV9QYWludGluZ3MubXAzIl1d/331%20Wifredo%20Lam%20Brousse%20Paintings.mp3?sha=2c10c05b3354b841",
+    "title": "Wifredo Lam. Untitled. 1958"
+  },
+  "332": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvNTJ2bGV0Njl1dF8zMzJfV2lmcmVkb19MYW1fQXBvc3Ryb3BoX19BcG9jYWx5cHNlLm1wMyJdXQ/332%20Wifredo%20Lam%20Apostroph_%20Apocalypse.mp3?sha=4315a3f93cc00edd",
+    "title": "Wifredo Lam, Gh\u00e9rasim Luca. Apostroph' Apocalypse (Apocalipsis del ap\u00f3strofo). 1967"
+  },
+  "333": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMDYvNDI0djYxN2R1NF8zMzNfV2lmcmVkb19MYW1fQW5ub25jaWF0aW9uLm1wMyJdXQ/333%20Wifredo%20Lam%20Annonciation.mp3?sha=778acb6e56ea6903",
+    "title": "Wifredo Lam. Annonciation (rabordaille). 1982"
+  },
+  "521": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvMWp1bng4N3Fjdl81MjFlLm1wMyJdXQ/521e.mp3?sha=e3146a552f21bee0",
+    "title": "Vincent van Gogh. The Starry Night. Saint R\u00e9my, June 1889"
+  },
+  "p296s125": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDIvMDEvNTl4dDBweXEyeV9QYXVsX0NlemFubmVfVGhlX0JhdGhlcl8yMDIzZWRpdC5tcDMiXV0/Paul%20Cezanne_The%20Bather_2023edit.mp3?sha=1b2465601a20aa5a",
+    "title": "Paul C\u00e9zanne. The Bather. c. 1885"
+  },
+  "p296s23": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDIvMDEvNmthd2Z5dWR0Yl9HZW9yZ2VzX1BpZXJyZV9TZXVyYXRfRXZlbmluZ19Ib25mbGV1cl8yMDIzZWRpdC5tcDMiXV0/Georges-Pierre%20Seurat_Evening,%20Honfleur_2023edit.mp3?sha=87c4f113da4b0188",
+    "title": "Georges-Pierre Seurat. Evening, Honfleur. 1886"
+  },
+  "502": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMzAvM2J1ZHhvbno5NV81MDJlX3BpY2Fzc28ubXAzIl1d/502e_picasso.mp3?sha=6e094f64aa761bf9",
+    "title": "Pablo Picasso. Les Demoiselles d'Avignon. Paris, June-July 1907"
+  },
+  "p296s21": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjMvM3R6bGRtYXhndl9OZXdfZW5nXzUwM19CcmFxdWUubXAzIl1d/New_eng_503_Braque.mp3?sha=92b7e8775f486f30",
+    "title": "Georges Braque. Man with a Guitar. C\u00e9ret, summer 1911-early 1912"
+  },
+  "p296s4523": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDMvMTgvMXJsd2kyNGluOV9QaWNhYmlhX1RoZV9TcHJpbmcubXAzIl1d/Picabia_The%20Spring.mp3?sha=64161fc8b6641eb0",
+    "title": "Francis Picabia. The Spring. Saint Cloud, spring or summer 1912"
+  },
+  "p296s275": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjMvNjV3NTdrOHFtdV9OZXdfNTQ2ZV9Cb2NjaW9uaS5tcDMiXV0/New_546e_Boccioni.mp3?sha=8b5fe7bad0727e3a",
+    "title": "Umberto Boccioni. Dynamism of a Soccer Player. 1913"
+  },
+  "522": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNWQwaXRzc2IxbV81MjJlLm1wMyJdXQ/522e.mp3?sha=8562ce26c31b1e0d",
+    "title": "Marc Chagall. I and the Village. 1911"
+  },
+  "p296s51": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDMvMTgvOTk3a3UxamVtZV9QaWNhc3NvX0d1aXRhci5tcDMiXV0/Picasso_Guitar.mp3?sha=6eb78cc7c341aa4a",
+    "title": "Pablo Picasso. Guitar. Paris, January\u2013February 1914"
+  },
+  "p296s542": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDMvMTgvNTlmNHJsanRpX1NldmVyaW5pX0JhbF9UYWJhcmluLm1wMyJdXQ/Severini_Bal%20Tabarin.mp3?sha=0536e175f9db6141",
+    "title": "Gino Severini. Dynamic Hieroglyphic of the Bal Tabarin. 1912"
+  },
+  "p296s4751": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvMzAzYWx5MG5qal9BbGZyZWRfU3RpZWdsaXR6X0Zyb21fdGhlX0JhY2tfV2luZG93Lm1wMyJdXQ/Alfred%20Stieglitz%20From%20the%20Back%20Window.mp3?sha=d1243fe116fa2917",
+    "title": "Alfred Stieglitz. From the Back-Window\u2013291\u2013Snow\u2013Covered Tree, Back-Yard. April 2, 1915"
+  },
+  "524": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNHJvZmF2YWxkc181MjRlLm1wMyJdXQ/524e.mp3?sha=97d0711a41a161cb",
+    "title": "Henri Matisse. Dance (I). Paris, Boulevard des Invalides, early 1909"
+  },
+  "p296s4337": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDIvMDEvMTdiYnI3ZnNnel9NYXRpc3NlX1RoZV9SZWRfU3R1ZGlvXzIwMjNlZGl0Lm1wMyJdXQ/Matisse_The%20Red%20Studio_2023edit.mp3?sha=908f6b2f4cfa1f1e",
+    "title": "Henri Matisse. The Red Studio. Issy-les-Moulineaux, fall 1911"
+  },
+  "p296s274": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMDgvM2I0M3FmbTdxYl9IZW5yaV9NYXRpc3NlX1RoZV9QaWFub19MZXNzb24ubXAzIl1d/Henri%20Matisse%20The%20Piano%20Lesson.mp3?sha=e0b804c425d4ba73",
+    "title": "Henri Matisse. The Piano Lesson. Issy-les-Moulineaux, late summer 1916"
+  },
+  "p296s4332": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDYvMTYvNTRrMzl4bDlyZV9NYXRpc3NlX1RoZV9CbHVlX1dpbmRvd18yMDI0ZWRpdC5tcDMiXV0/Matisse_The%20Blue%20Window_2024edit.mp3?sha=1adfc024d5c66a42",
+    "title": "Henri Matisse. The Blue Window. Issy-les-Moulineaux, summer 1913"
+  },
+  "p296s4561": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDQvMjMvNjNramI3MXNseV9NYXRpc3NlX011c2ljX0FORF9EYW5jZS5tcDMiXV0/Matisse%20Music%20AND%20Dance.mp3?sha=fc8ebd55a6cb0c41",
+    "title": "Henri Matisse. Music (Sketch). Collioure, spring-summer 1907"
+  },
+  "p296s4637": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDkvMDQvNm0ydzBreHNwMV9NYXRpc3NlX0plYW5uZXR0ZV9IZWFkcy5tcDMiXV0/Matisse%20Jeannette%20Heads.mp3?sha=8f3a5ff9655648ea",
+    "title": "Henri Matisse. Jeannette (IV). Issy-les-Moulineaux, April - September 1910 or February - mid-July 1911"
+  },
+  "695": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDYvMTYvM2V1Y2FvYWZxa182OTVfVVBEQVRFRC5tcDMiXV0/695_UPDATED.mp3?sha=03b438cafdf18d2b",
+    "title": "Henri Matisse. The Rose Marble Table. Issy-les-Moulineaux, spring-summer 1917"
+  },
+  "p296s4135": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMDEvMDcvNnpicTV1ZTdsN19VbHJpa2VfTXVsbGVyX1NvbWVfTWl4Lm1wMyJdXQ/Ulrike%20Muller%20-%20Some%20-%20Mix.mp3?sha=d62ee7d146f22869",
+    "title": "Ulrike M\u00fcller. Some. 2017"
+  },
+  "512": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTIvOGc1aWIxZ3o4Ml81MTJlX01hbGV2aWNoLm1wMyJdXQ/512e_Malevich.mp3?sha=dfa86fa20b7d50a4",
+    "title": "Kazimir Malevich. Suprematist Composition: White on White. 1918"
+  },
+  "p296s278": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTQvOW1nYXprN3Rjal9Sb2RjaGVua29fU3BhdGlhbF9Db25zdHJ1Y3Rpb25fTkVXX05BUlJBVElPTi5tcDMiXV0/Rodchenko%20Spatial%20Construction%20NEW%20NARRATION.mp3?sha=14e986a168484ce5",
+    "title": "Aleksandr Rodchenko. Spatial Construction no. 12. c. 1920"
+  },
+  "p296s4599": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDcvMjIvOGd0djg4ZG1nOV9EdXN0aW5nX0JpcmRfaW5fU3BhY2UubXAzIl1d/Dusting%20Bird%20in%20Space.mp3?sha=63f3dbb06c27db74",
+    "title": "Constantin Brancusi. Bird in Space. 1928"
+  },
+  "509": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDcvMjIvMWdsYWpjcWduOF81MDllX2JyYW5jdXNpXzIwMjR1cGRhdGUubXAzIl1d/509e_brancusi_2024update.mp3?sha=706880dc41c82652",
+    "title": "Constantin Brancusi. Maiastra. 1910-12"
+  },
+  "p296s4508": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMTIvN2NyOXBuZWRjeV9PX0tlZWZmZV9BYnN0cmFjdGlvbl9CbHVlLm1wMyJdXQ/O%27Keeffe%20Abstraction%20Blue.mp3?sha=bf877f79b674e2ce",
+    "title": "Georgia O'Keeffe. Abstraction Blue. 1927"
+  },
+  "535": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTYvMTg2NWJsYzZ6XzUzNWVfYW1hcmFsLm1wMyJdXQ/535e_amaral.mp3?sha=8c4136f949986e0e",
+    "title": "Tarsila do Amaral. The Moon. 1928"
+  },
+  "422": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDUvMDEvNXNiNXY0c2p0M180MjJlXzIwMjR1cGRhdGUubXAzIl1d/422e_2024update.mp3?sha=71c24fdee03246db",
+    "title": "Isamu Noguchi. My Pacific (Polynesian Culture). 1942"
+  },
+  "p296s4383": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDUvMzAvNXMyYWU4bTBidV9SaXZlcl9Sb3VnZV9QbGFudF9EMS5tcDMiXV0/River%20Rouge%20Plant_D1.mp3?sha=d3a1302596b35aa9",
+    "title": "Trip through River Rouge Plant. 1938"
+  },
+  "352": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjEvMDYvMjUvOHNyd3d4ZWppNl8zNTJfRm9yZF9Nb3Rvcl9Db21wYW55Lm1wMyJdXQ/352%20Ford%20Motor%20Company.mp3?sha=f7d33a6c1276a740",
+    "title": "Charles Sheeler. American Landscape. 1930"
+  },
+  "p296s4031": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjEvMDEvMTEvNXQ4aGlqbGhjcl9Ub3JyZXNfR2FyY2lhXzJfV0lUSF9NVVNJQy5tcDMiXV0/Torres%20Garcia%202%20WITH%20MUSIC.mp3?sha=91323850f8a0195e",
+    "title": "Joaqu\u00edn Torres-Garc\u00eda. Construction in White and Black. 1938"
+  },
+  "p296s4579": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvNG9odm03ZXVpNV9QYWJsb19QaWNhc3NvX1RocmVlX1dvbWVuX0FEVUxUX0ZJTkFMLm1wMyJdXQ/Pablo%20Picasso%20Three%20Women%20ADULT_FINAL.mp3?sha=c825ec14c508c9c6",
+    "title": "Pablo Picasso. Three Women at the Spring. Fontainebleau, summer 1921"
+  },
+  "510": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMzAvMzE4OXdyZWl3YV81MTBlLm1wMyJdXQ/510e.mp3?sha=c9d3a40ad906ffe0",
+    "title": "Pablo Picasso. Three Musicians. Fontainebleau, summer 1921"
+  },
+  "p296s4033": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjEvMDEvMjIvM2ZyMWQ0eDI3dV9FaWxlZW5fR3JheV9GaW5hbC5tcDMiXV0/Eileen%20Gray%20Final.mp3?sha=f8ad7091233393d1",
+    "title": "Eileen Gray. Screen. 1922"
+  },
+  "539": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvM3A2ZWZrcnVhNl81MzllLm1wMyJdXQ/539e.mp3?sha=ab432304066b242a",
+    "title": "Claude Monet. Water Lilies. 1914-26"
+  },
+  "674": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvN3loNzZsaGE0Nl82NzQubXAzIl1d/674.mp3?sha=2136cc630c540027",
+    "title": "Claude Monet. Agapanthus. 1914-26"
+  },
+  "p296s4598": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDcvMDkvNzUyeHgwNHE0b19DaHJpc19CYWlsZXlfU2hvcnRfZm9yX1NwYV9UcmFuc2xhdGlvbl9teS5tcDMiXV0/Chris%20Bailey%20Short%20for%20Spa%20Translation%20my.mp3?sha=53f40b5725a05e31",
+    "title": "Claude Monet. Water Lilies. 1914-26"
+  },
+  "565": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMjNpeTE5NmV5b181NjUubXAzIl1d/565.mp3?sha=55df55d99a0d19b1",
+    "title": "Claude Monet. Water Lilies. 1914-26"
+  },
+  "p296s3863": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvN2FmdjJ2MjVoOF9Bbm5fVGVta2luX1NpbnRlbnNpc19yMy5tcDMiXV0/Ann_Temkin_Sintensis_r3.mp3?sha=8b8add2fdb06a9d2",
+    "title": "Ren\u00e9e Sintenis. Daphne. 1930"
+  },
+  "612": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMTAvMzEvNXJ0Z292NXl1c182MTIubXAzIl1d/612.mp3?sha=112a47acb770a613",
+    "title": "Max Beckmann. Self-Portrait with a Cigarette. Frankfurt 1923"
+  },
+  "p296s4785": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvOGcyM3Q2OTltdF9QaG90b19TYWxvbl9XYWxsLm1wMyJdXQ/Photo%20Salon%20Wall.mp3?sha=6b1e948bce119b90",
+    "title": "Overview of Gallery 517: A Surrealist Lens"
+  },
+  "p296s4333": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvM2tlanNibXp0cV9NZXJldF9PcHBlbmhlaW1fT2JqZWN0X0FEVUxUX0ZJTkFMLm1wMyJdXQ/Meret%20Oppenheim%20Object_ADULT_FINAL.mp3?sha=83b8989ee5eafe70",
+    "title": "Meret Oppenheim. Object. Paris, 1936"
+  },
+  "528": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvOTltZXQ5OXR1dF81MjhlLm1wMyJdXQ/528e.mp3?sha=82ae79d516e32cdc",
+    "title": "Alberto Giacometti. The Palace at 4 a.m. 1932"
+  },
+  "517": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMzAvNGpiejAzYXVmeV81MTdlLm1wMyJdXQ/517e.mp3?sha=8d11f036f80c6e43",
+    "title": "Salvador Dal\u00ed. The Persistence of Memory. 1931"
+  },
+  "p296s277": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMDUvMW5oMHM3N3JpN19Fcm5zdF9OaWdodGluZ2FsZV8yMDIzVXBkYXRlLm1wMyJdXQ/Ernst_Nightingale_2023Update.mp3?sha=af486f03eadad907",
+    "title": "Max Ernst. Two Children Are Threatened by a Nightingale (Deux Enfants sont menac\u00e9s par un rossignol). 1924"
+  },
+  "p296s4781": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMTAvMjJ2cnh2ZGY2cl9NZW5hY2VkX0Fzc2Fzc2luX05FVzIwMjUubXAzIl1d/Menaced%20Assassin_NEW2025.mp3?sha=fed821c483ce0516",
+    "title": "Ren\u00e9 Magritte. The Menaced Assassin. Brussels 1927"
+  },
+  "p296s2383": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMTAvMzEvMTg2NGx1cHRoZV9lbmdfNjU3MC5tcDMiXV0/eng_6570.mp3?sha=74aded17ac984cd5",
+    "title": "Ren\u00e9 Magritte. The False Mirror. Paris 1929"
+  },
+  "p296s2384": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMTAvMzEvMzk0Nm9rZDR0a19lbmdfNjU3Lm1wMyJdXQ/eng_657.mp3?sha=cf64002c3fa05ee8",
+    "title": "Ren\u00e9 Magritte. The False Mirror. Paris 1929"
+  },
+  "p296s4784": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvMml5MXA3Z2NkaV9FaV9RX1VudGl0bGVkX2Zyb21fUmVhc29uX29mX1NsZWVwLm1wMyJdXQ/Ei-Q%20Untitled%20from%20Reason%20of%20Sleep.mp3?sha=9769badfd4258a23",
+    "title": "Ei-Q (Hideo Sugita). Untitled from Reason of Sleep. 1936"
+  },
+  "p296s4782": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvN2U4MnRldjdodl9TYWx2YWRvcl9EYWxpX1RoZV9MaXR0bGVfVGhlYXRlci5tcDMiXV0/Salvador%20Dali%20The%20Little%20Theater.mp3?sha=c52f4807e0f952d2",
+    "title": "Salvador Dal\u00ed. The Little Theater. 1934"
+  },
+  "542": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMTEvOHVvaXl5d2todF81NDJlX3Zhcm8ubXAzIl1d/542e_varo.mp3?sha=9d82d918f51cf562",
+    "title": "Remedios Varo. The Juggler (The Magician). 1956"
+  },
+  "p296s3853": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMDgvNXZxNDRnbnY1el9lbl81MThfSm9hbl9NaXJvX0JpcnRoX29mX3RoZV9Xb3JsZC5tcDMiXV0/en_518_Joan-Miro-Birth-of-the-World.mp3?sha=2e98dc97ba715256",
+    "title": "Joan Mir\u00f3. The Birth of the World. Montroig, late summer-fall 1925"
+  },
+  "518": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTEvMTUvOTR6d2hnNWtrZF81MThlLm1wMyJdXQ/518e.mp3?sha=6c2d65791f232d80",
+    "title": "Joan Mir\u00f3. The Birth of the World. Montroig, late summer-fall 1925"
+  },
+  "p296s13": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvODFyNDE2aDFqbF9lbmdfNTE0Lm1wMyJdXQ/eng_514.mp3?sha=f68d83d515369dc8",
+    "title": "Pablo Picasso. Girl before a Mirror. Paris, March 14, 1932"
+  },
+  "p296s4607": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMjcvOHdlaTFmOTJsal9GcmFua19MbG95ZF9XcmlnaHRfQnJvYWRhY3JlX0NpdHlfdjEubXAzIl1d/Frank%20Lloyd%20Wright%20Broadacre%20City_v1.mp3?sha=ff0a5d66deb1877c",
+    "title": "Frank Lloyd Wright. Broadacre City Project (Model in four sections). 1934\u20131935"
+  },
+  "p296s4789": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvYXAwbDM5OTQyX1ByZXNlbmNlX0FmcmljYWluZV9PdmVydmlldy5tcDMiXV0/Presence%20Africaine%20Overview.mp3?sha=c2c5b985108d6537",
+    "title": "Pr\u00e9sence Africaine"
+  },
+  "p296s4787": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvN2lkeHh6dnY3eF9BbGJlcnRvX0dpYWNvbWV0dGlfU3Bvb25fV29tYW4ubXAzIl1d/Alberto%20Giacometti%20Spoon%20Woman.mp3?sha=d853ff63c725f18d",
+    "title": "Alberto Giacometti. Spoon Woman. 1926-27 (cast 1976)"
+  },
+  "p296s4788": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMva2dzenZuYmV3X1dhbGtlcl9FdmFuc19BZnJpY2FuX1NjdWxwdHVyZS5tcDMiXV0/Walker%20Evans%20African%20Sculpture.mp3?sha=3aadad8f0ebee047",
+    "title": "Walker Evans. African Sculpture. 1935"
+  },
+  "p296s4786": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvNWNibDhkcndzdV9IZWN0b3JfSHlwcG9saXRlX0NvbmdvX1F1ZWVuLm1wMyJdXQ/Hector%20Hyppolite%20Congo%20Queen.mp3?sha=eb6e83c6f5f6d1fb",
+    "title": "Hector Hyppolite. The Congo Queen. by 1946"
+  },
+  "p296s4235": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMDUvMjYvMWYwd3d3OHNtN19Nb3RsZXlfVG9uZ3Vlc19Ib2x5X1JvbGxlcnNfTXVzaWMubXAzIl1d/Motley%20Tongues%20Holy%20Rollers_Music.mp3?sha=7204977d1e27f9f0",
+    "title": "Archibald John Motley Jr. Tongues (Holy Rollers). 1929"
+  },
+  "p296s4802": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvOGVvMjZqZGFsaF9QZXRlcl9CbHVtZV9QYXJhZGUubXAzIl1d/Peter%20Blume%20Parade.mp3?sha=1bb2a71abcd8338d",
+    "title": "Peter Blume. Parade. 1930"
+  },
+  "529": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvOWJiZnFpbGxrMl81MjllLm1wMyJdXQ/529e.mp3?sha=0b424769501681ae",
+    "title": "Edward Hopper. House by the Railroad. 1925"
+  },
+  "p296s4236": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMDYvMTcvNHViZTJ5cWV0Z19XeWV0aF9DaHJpc3RpbmFfc19Xb3JsZF9EcnkubXAzIl1d/Wyeth%20Christina%27s%20World_Dry.mp3?sha=e6bef709d9756981",
+    "title": "Andrew Wyeth. Christina's World. 1948"
+  },
+  "p296s4804": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvNzgwYml1c3ViOF9BbGljZV9OZWVsX0tlbm5ldGhfRmVhcmluZ19GSU5BTC5tcDMiXV0/Alice%20Neel%20Kenneth%20Fearing_FINAL.mp3?sha=fb276e9bbff39869",
+    "title": "Alice Neel. Kenneth Fearing. 1935"
+  },
+  "457": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNzlzcWFic2s0al80NTcubXAzIl1d/457.mp3?sha=cd2f1c9ae16f821f",
+    "title": "Joseph Cornell. Untitled (B\u00e9b\u00e9 Marie). early 1940s"
+  },
+  "561": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjAvMTAvMjgvNGtrMWRhZWk5dl81NjFlX2NhcnJpbmd0b24ubXAzIl1d/561e_carrington.mp3?sha=e9a816b3cc07fad9",
+    "title": "Leonora Carrington. Green Tea. 1942"
+  },
+  "p296s119": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjAvNWIzNm15N3hibV9OZXdfNDE2ZV9Qb2xsb2NrX1NoZV9Xb2xmLm1wMyJdXQ/New_416e_Pollock%20She%20Wolf.mp3?sha=693f46e568f41687",
+    "title": "Jackson Pollock. The She-Wolf. 1943"
+  },
+  "p296s4871": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMTAvM2hkY2NxMWoxNF9NQVRUQV9WRVJUSUdPX2F1ZGlvX2NsZWFudXBfVjFfLm1wMyJdXQ/MATTA%20VERTIGO%20%28audio%20cleanup%20V1%29.mp3?sha=44c8f2603c2ccb80",
+    "title": "Roberto Matta. The Vertigo of Eros. 1944"
+  },
+  "428": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNGJqMDFuZnU2MV80MjhlLm1wMyJdXQ/428e.mp3?sha=45bdd72331bb9cee",
+    "title": "Mark Rothko. Slow Swirl at the Edge of the Sea. 1944"
+  },
+  "p296s43": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDYvMTYvMTJicjhuMHZhcl9Hb3JreV9TZWR1Y2VyXzIwMjR1cGRhdGUyLm1wMyJdXQ/Gorky_Seducer_2024update2.mp3?sha=91958151b890c2dd",
+    "title": "Arshile Gorky. Diary of a Seducer. 1945"
+  },
+  "516": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTYvaXRpcXM4NjZ0XzUxNmVfYmVja2VyLm1wMyJdXQ/516e_becker.mp3?sha=432800cd5f755f3c",
+    "title": "Paula Modersohn-Becker. Self-Portrait with Two Flowers in Her Raised Left Hand. 1907"
+  },
+  "p296s61": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMTcvNjFna3R6a2hrcV9HdXN0YXZfS2xpbXRfSG9wZV9JSV9WMi5tcDMiXV0/Gustav%20Klimt%20Hope%20II_V2.mp3?sha=53f39d541b614b27",
+    "title": "Gustav Klimt. Hope, II. 1907-08"
+  },
+  "p296s4447": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMTIvNmR3bGVsb2RvaV9LaXJjaG5lcl9TdHJlZXRfQmVybGluLm1wMyJdXQ/Kirchner%20Street%20Berlin.mp3?sha=85086efa6116e16c",
+    "title": "Ernst Ludwig Kirchner. Street, Berlin. 1913"
+  },
+  "p296s4326": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDEvMTgvMjgya2VzYjQxOV9SaXZlcmFfQWdyYXJpYW5fTGVhZGVyX1phcGF0YV9GaW5hbF9Sb3VnaF9DdXQubXAzIl1d/Rivera%20Agrarian%20Leader%20Zapata%20Final%20Rough%20Cut.mp3?sha=49c40dc20641151f",
+    "title": "Diego Rivera. Agrarian Leader Zapata. 1931"
+  },
+  "541": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTIvMjJpaHozNm1uZl81NDFlX0thaGxvLm1wMyJdXQ/541e_Kahlo.mp3?sha=6ff73e3410ab2236",
+    "title": "Frida Kahlo. Self-Portrait with Cropped Hair. 1940"
+  },
+  "p296s4783": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvNG44eW44dGZnal9GcmlkYV9LYWhsb19GdWxhbmdfQ2hhbmdfYW5kX0kubXAzIl1d/Frida%20Kahlo%20Fulang-Chang%20and%20I.mp3?sha=75ef56bd6b123d40",
+    "title": "Frida Kahlo. Fulang-Chang and I. 1937 (assembled after 1939)"
+  },
+  "335": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMTAvMzAvM3AxNDMxNnc4aF8zMzVfRnJpZGFfS2FobG9fTXlfR3JhbmRwYXJlbnRzX015X1BhcmVudHNfYW5kX0lfdjEubXAzIl1d/335%20Frida%20Kahlo%20My%20Grandparents%20My%20Parents%20and%20I_v1.mp3?sha=06596c4423147409",
+    "title": "Frida Kahlo. My Grandparents, My Parents, and I. 1936"
+  },
+  "530": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNmlnYmxxdnh4aF81MzBlLm1wMyJdXQ/530e.mp3?sha=8c395618f4b5586f",
+    "title": "Henri Rousseau. The Dream. 1910"
+  },
+  "440": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvOW1saWo3bHlhdF80NDBlLm1wMyJdXQ/440e.mp3?sha=6dcc27b65169f266",
+    "title": "Louise Bourgeois. Quarantania, I. 1947-53; reassembled by the artist 1981"
+  },
+  "p297s47": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMzAvOWc4NmNmOWs2OV9OZXdfNDAyZV9Qb2xsb2NrX09uZV8zMS5tcDMiXV0/New_402e_Pollock%20One%2031.mp3?sha=15a93d83121dc9a4",
+    "title": "Jackson Pollock. One: Number 31. 1950"
+  },
+  "p297s3219": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTQvMTVvb2RmbzliZV9LcmFzbmVyX1VudGl0bGVkXzE5NDlfTkVXX05BUlJBVElPTi5tcDMiXV0/Krasner%20Untitled%201949%20NEW%20NARRATION.mp3?sha=2a13df0117b3ab47",
+    "title": "Lee Krasner. Untitled. 1949"
+  },
+  "p297s3217": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTQvM3NpNmxxNmliaF9OZXZlbHNvbl9Ta3lfQ2F0aGVkcmFsX05FV19OQVJSQVRJT04ubXAzIl1d/Nevelson%20Sky%20Cathedral%20NEW%20NARRATION.mp3?sha=3a6989963d830be7",
+    "title": "Louise Nevelson. Sky Cathedral. 1958"
+  },
+  "403": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTMvOHFhenJwbzBvM180MDNlX05ld21hbi5tcDMiXV0/403e_Newman.mp3?sha=476491f5f1738e5e",
+    "title": "Barnett Newman. Vir Heroicus Sublimis. 1950-51"
+  },
+  "437": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMnl5cm02ajc3MV80MzdlLm1wMyJdXQ/437e.mp3?sha=9578e2276f3482b0",
+    "title": "Mark Rothko. No. 37/No. 19 (Slate Blue and Brown on Plum). 1958"
+  },
+  "p297s3819": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTIvMDUvNHd5Zm42eTFmcF9NYXJrX1JvdGhrb19Oby5fMTBfMjAyM2VkaXQubXAzIl1d/Mark%20Rothko_No.%2010_2023edit.mp3?sha=ecca4548dc7e845d",
+    "title": "Mark Rothko. No. 10. 1950"
+  },
+  "338": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMTAvMjkvNmNicXpxam5tcF8zMzhfRm9ycmVzdF9CZXNzX05vXzQwXzE5NDlfdjEubXAzIl1d/338%20Forrest%20Bess%20No%2040%201949_v1.mp3?sha=e328d692c6aede71",
+    "title": "Forrest Bess. Number 40. 1949"
+  },
+  "p297s4694": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMDEvNHkzMm02eHo3al9Gb3JyZXN0X0Jlc3NfVW50aXRsZWRfMTk1N192MS5tcDMiXV0/Forrest%20Bess%20Untitled%201957_v1.mp3?sha=4092781de5d47089",
+    "title": "Forrest Bess. Untitled. 1957"
+  },
+  "459": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMTEvNnBmOTgwMjR2cl80NTllX1JhdXNjaGVuYmVyZy5tcDMiXV0/459e_Rauschenberg.mp3?sha=02be9d7da31ec961",
+    "title": "Robert Rauschenberg. Canyon. 1959"
+  },
+  "p297s532": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMTAwYnNmZmJwc19lbmdfNDc3Lm1wMyJdXQ/eng_477.mp3?sha=f8218a6c5ca63a08",
+    "title": "Niki de Saint Phalle. Shooting Painting American Embassy. 1961"
+  },
+  "p297s41": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjAvM2FkaTZldG9jbF9OZXdfNDIwZV9Kb2huc19GbGFnLm1wMyJdXQ/New_420e_Johns%20Flag.mp3?sha=66fae7677f0e2686",
+    "title": "Jasper Johns. Flag. 1954-55 (dated on reverse 1954)"
+  },
+  "661": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMjkvNmkyODlmaXcyel82NjFfdjIubXAzIl1d/661_v2.mp3?sha=41d9c399fa36e98f",
+    "title": "Claes Oldenburg. Pastry Case, I. 1961-62"
+  },
+  "p297s4872": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvNXJ0ZmEzNmE5MF9Kb2huX0NoYW1iZXJsYWluX1RvbW9oYXdrX05vbGFuLm1wMyJdXQ/John%20Chamberlain%20Tomohawk%20Nolan.mp3?sha=bea14040049bf1ae",
+    "title": "John Chamberlain. Tomahawk Nolan. 1965"
+  },
+  "p297s4690": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTgvOGZ6MGNveXBybl9Kb2huX091dHRlcmJyaWRnZV9Ccm9rZW5fRGFuY2UubXAzIl1d/John%20Outterbridge%20Broken%20Dance.mp3?sha=5921df74263f15aa",
+    "title": "John Outterbridge. Broken Dance, Ethnic Heritage Series. c. 1978-82"
+  },
+  "p297s4808": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTgvMXBia2s4a3J6bV9QaWVyb19NYW56b25pX0FydGlzdF9zX1NoaXQubXAzIl1d/Piero%20Manzoni%20Artist%27s%20Shit.mp3?sha=5ce15b8631134670",
+    "title": "Piero Manzoni. Artist's Shit No. 014. May 1961"
+  },
+  "p297s4819": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMDgvOWg1bzlpa3Q0Yl9DaHJpc3RvX1dyYXBwZWRfUm9zZXMubXAzIl1d/Christo%20Wrapped%20Roses.mp3?sha=44d9876404c8c71e",
+    "title": "Christo. Wrapped Roses. 1968"
+  },
+  "451": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNnlpY2FwYmk0OV80NTFlLm1wMyJdXQ/451e.mp3?sha=3b08df18e54683fb",
+    "title": "Joseph Beuys. Eurasia Siberian Symphony 1963. 1966"
+  },
+  "475": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDYvMTYvMTZucjlqeXI1dl80NzVfVVBEQVRFRC5tcDMiXV0/475_UPDATED.mp3?sha=d8e668083ae5dea9",
+    "title": "Marisa Merz. Untitled. 1966"
+  },
+  "409": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjcvM2VlZDc3M2hndV80MDllLm1wMyJdXQ/409e.mp3?sha=61092aa7d07eccb1",
+    "title": "Lee Bontecou. Untitled. 1959"
+  },
+  "p297s4891": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvNDBuNnp6cnp2aF9NZXR6a2VyX0JlYWNoX0QzLm1wMyJdXQ/Metzker_Beach_D3.mp3?sha=b8832445834e2082",
+    "title": "Ray K. Metzker. Atlantic City. 1968"
+  },
+  "p297s4821": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDEvODg1dmloemtxeF9CcmlkZ2V0X1JpbGV5X0N1cnJlbnQubXAzIl1d/Bridget%20Riley%20Current.mp3?sha=a878ddf598748214",
+    "title": "Bridget Riley. Current. 1964"
+  },
+  "p297s531": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjAvODMyeHhqaHpibV9OZXdfZW5kXzQ3Nl9XYXJob2xfU291cF9DYW5zLm1wMyJdXQ/New_end_476_Warhol%20Soup%20Cans.mp3?sha=bc8875d43d0cfee4",
+    "title": "Andy Warhol. Campbell's Soup Cans. 1962"
+  },
+  "p297s4576": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDUvMDkvNWIwMWU0dGt3ZF9PbGRlbmJ1cmdfR2lhbnRGbG9vckZhbi5tcDMiXV0/Oldenburg_GiantFloorFan.mp3?sha=d017df238ef9dd71",
+    "title": "Claes Oldenburg. Giant Soft Fan. 1966-67"
+  },
+  "p297s4575": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDUvMDkvNWV0OTFkZXlyZF9Qb3NlbmVuc2tlX1Nlcmllc0IubXAzIl1d/Posenenske_SeriesB.mp3?sha=81e95b1112b17f73",
+    "title": "Charlotte Posenenske. Series B Relief (Red Prototype). 1967"
+  },
+  "465": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMDEvM205dzhvaHR6Ml80NjVlX2ZsYXZpbi5tcDMiXV0/465e_flavin.mp3?sha=9e009a1a0fd576af",
+    "title": "Dan Flavin. untitled. 1969"
+  },
+  "p297s4883": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvM2o1cnV2djdoNl9LZW5uZXRoX05vbGFuZF9UdXJuc29sZV9EMy5tcDMiXV0/Kenneth%20Noland%20Turnsole%20D3.mp3?sha=3e8359f3f3787c79",
+    "title": "Kenneth Noland. Turnsole. 1961"
+  },
+  "p297s4884": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvN2g3aDdkcGd0MF9Bbm5lX1RydWl0dF9GaXJzdF9SZXF1aWVtX0QzLm1wMyJdXQ/Anne%20Truitt%20First%20Requiem%20D3.mp3?sha=a77551af4e699e58",
+    "title": "Anne Truitt. First Requiem. 1977"
+  },
+  "p297s4886": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMTMvMWhyZW1qb2F0a19TYW5pbl9EMS5tcDMiXV0/Sanin_D1.mp3?sha=7eb54dab6c4abeb8",
+    "title": "Fanny San\u00edn. Acrylic No. 3. 1974"
+  },
+  "0642": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTgvMTAvMzEvNWZzM2ltOWUwNF8wNjQyX0VsYmVydEphY2tzb25fTEFNRi5tcDMiXV0/0642_ElbertJackson_LAMF.mp3?sha=1993b1ac5a356e1b",
+    "title": "William T. Williams. Elbert Jackson L.A.M.F. Part II. 1969"
+  },
+  "486": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjAvMTIvMjAvNXhxM3Fud3A4cV80ODZfUmluZ2dvbGRfZWRpdGVkXzEyLjIwLm1wMyJdXQ/486_Ringgold_edited_12.20.mp3?sha=65c2caad2ad73f64",
+    "title": "Faith Ringgold. American People Series #20: Die. 1967"
+  },
+  "p297s374": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvcjc4aDh6MXFnX2VuZ182MDcubXAzIl1d/eng_607.mp3?sha=360db72ba4bfb1c8",
+    "title": "Yoko Ono. Bag Piece (1964), performed during Perpetual Fluxfest, Cinematheque, New York, June 27, 1965. 1965"
+  },
+  "356": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjEvMDYvMjUvNnRrbmI4bHdkbV8zNTZfR01fT3NjYXIubXAzIl1d/356%20GM%20Oscar.mp3?sha=0f0c0a43cdd96fa3",
+    "title": "General Motors Corporation, Detroit, MI. \"Oscar\" car design template. 1950s"
+  },
+  "383": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMTYxbmZvamhvYl8zODMubXAzIl1d/383.mp3?sha=1714fd1e37b2ea0e",
+    "title": "Laurie Simmons. Walking House. 1989"
+  },
+  "p297s4606": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvMmR6bWw0eDN5cl9HdW5uYXJfQWFnYWFyZF9BbmRlcnNlbl9Bcm1jaGFpci5tcDMiXV0/Gunnar%20Aagaard%20Andersen%20Armchair.mp3?sha=433b74a82c60115d",
+    "title": "Gunnar Aagaard Andersen. Armchair. 1964"
+  },
+  "p297s4833": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDEvMDUvM3JqZHdpcnY2al9LYXp1b19LYXdhc2FraV9DYXJuYV9Gb2xkaW5nX1doZWVsY2hhaXJfRDMubXAzIl1d/Kazuo%20Kawasaki%20Carna%20Folding%20Wheelchair%20D3.mp3?sha=feeb93038245439e",
+    "title": "Kazuo Kawasaki. Carna Folding Wheelchair. 1989"
+  },
+  "p297s4835": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMTYvNmVwdGRhMjlubl9BcHJpbF9HcmVpbWFuX0RPRVNfSVRfTUFLRV9TRU5TRS5tcDMiXV0/April%20Greiman%20DOES%20IT%20MAKE%20SENSE.mp3?sha=56ede617e6c8d643",
+    "title": "April Greiman. DOES IT MAKE SENSE? Design Quarterly #133 (Design for special issue of Design Quarterly, no. 133). 1986"
+  },
+  "455": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNjg0b3IxbzBvdF80NTVlLm1wMyJdXQ/455e.mp3?sha=de9566bd9a6f04fc",
+    "title": "James Rosenquist. F-111. 1964-65"
+  },
+  "p297s4889": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMTMvNGR4a2JhOWowdV9CZXJ0aW5hX0xvcGVzX0JpZ19DcnlfRDIubXAzIl1d/Bertina%20Lopes%20Big%20Cry_D2.mp3?sha=125fdcbf78683f4c",
+    "title": "Bertina Lopes. Big Cry. 1970"
+  },
+  "p297s3151": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDUvMDcvOTBmbXhkMTBsa19Hb2xkX01hcmlseW5fRDMubXAzIl1d/Gold%20Marilyn_D3.mp3?sha=352025f1366926b2",
+    "title": "Andy Warhol. Gold Marilyn Monroe. 1962"
+  },
+  "p297s4887": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMTMvNHU5ZnNlczRkZV9QaGlsaXBfR3VzdG9uX0QyLm1wMyJdXQ/Philip%20Guston_D2.mp3?sha=1f2ac5b61a4c5533",
+    "title": "Philip Guston. Edge of Town. 1969"
+  },
+  "p297s4806": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvNXdnc282YTQxaF9BbGljZV9OZWVsX0Jlbm55X2FuZF9NYXJ5X0VsbGVuX0FuZHJld3NfRklOQUwubXAzIl1d/Alice%20Neel%20Benny%20and%20Mary%20Ellen%20Andrews_FINAL.mp3?sha=eb4c72c45b069201",
+    "title": "Alice Neel. Benny and Mary Ellen Andrews. 1972"
+  },
+  "p297s3854": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDUvMjUvMzZka3JxcXFyMl9OaW5hX0thdGNoYWRvdXJpYW5fb25fdGhlX0hlbGljb3B0ZXJfRDIubXAzIl1d/Nina%20Katchadourian%20on%20the%20Helicopter_D2.mp3?sha=37a30cc4a23abd29",
+    "title": "Arthur Young. Bell-47D1 Helicopter. 1945"
+  },
+  "p298s4749": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDcvMjQvNGNzeGlvb3lqal9BcHBsZWJyb29nXzIwMjVFZGl0Lm1wMyJdXQ/Applebroog_2025Edit.mp3?sha=eb25b57d8fb60f0e",
+    "title": "Ida Applebroog. Chronic Hollow. 1989"
+  },
+  "p298s4515": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDIvMjkvOWY0dXlic3B0M19NYWNoYWRvX1NocmluZV93aGl0ZV9BRFVMVC5tcDMiXV0/Machado%20Shrine%20%28white%29%20ADULT.mp3?sha=9314f04b324b8bef",
+    "title": "Agosto Machado. Shrine (White). 2022"
+  },
+  "p298s4564": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvNXN4Y3R6YWtrel9TaGViYV9DaGhhY2hoaV9TZXZlbl9MaXZlc19GSU5BTC5tcDMiXV0/Sheba%20Chhachhi%20Seven%20Lives_FINAL.mp3?sha=f7cd40ab019db4d1",
+    "title": "Sheba Chhachhi. Devikripa - Staged Portrait, Seemapuri, Delhi; Sit-in, Family Planning Centre, Nandnagari, Delhi; Sikh widow, Trilokpuri. 1980-91"
+  },
+  "p298s4565": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvMzgyaWdwc2Y2dF9TaGViYV9DaGhhY2hoaV9Qcm90ZXN0X1NvbmdzX0ZJTkFMLm1wMyJdXQ/Sheba%20Chhachhi%20Protest%20Songs_FINAL.mp3?sha=f37ae6690f567bc4",
+    "title": "Sheba Chhachhi. Excerpts from Todo Bandhan (Break the Bind): Feminist Songs Compilation. 1985"
+  },
+  "p298s4562": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvNGF2aDA2MjhtYl9OYWxpbmlfTWFsYW5pX01lbW9yeV9SZWNvcmRfRXJhc2VfRklOQUwubXAzIl1d/Nalini%20Malani%20Memory%20Record%20Erase_FINAL.mp3?sha=6f0a1cf546223fc0",
+    "title": "Nalini Malani. Memory: Record/Erase. 1996"
+  },
+  "p298s4566": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTYvNTgyMnlic3F0OV9QdXNocGFtYWxhX05fTmF2YXJhc2FfU3VpdGVfRklOQUwubXAzIl1d/Pushpamala%20N%20Navarasa%20Suite_FINAL.mp3?sha=26f7c80b805c70fa",
+    "title": "Pushpamala N. Bhibhasta from The Navarasa Suite, from the series Bombay Photo Studio. 2003"
+  },
+  "261": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNzh2eGZhdGVial8yNjEubXAzIl1d/261.mp3?sha=23ffa75115740f7c",
+    "title": "Martin Kippenberger. Untitled from the series Dear Painter, Paint for Me [Lieber Maler, male mir]. 1981"
+  },
+  "p298s4490": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMDgvOWl2ZTAxM3lzal9LZWxsZXlfRGVvZGVyaXplZF9DZW50cmFsX01hc3MubXAzIl1d/Kelley%20Deoderized%20Central%20Mass.mp3?sha=61baa0913985c202",
+    "title": "Mike Kelley. Deodorized Central Mass with Satellites. 1991/1999"
+  },
+  "p298s4378": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMjYvNXlwaXRzajlqdF9LYXlfV2Fsa2luZ1N0aWNrX1RlYXJzX1N0dWRpb1NvdW5kLm1wMyJdXQ/Kay%20WalkingStick_Tears_StudioSound.mp3?sha=48b7f0553bcca33c",
+    "title": "Kay WalkingStick. Tears. 1990"
+  },
+  "p298s4422": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDcvMTAvNHF5eDh0NnA0OV9HbGVubl9MaWdvbl9XYXJtX0Jyb2FkX0dsb3cubXAzIl1d/Glenn%20Ligon_Warm%20Broad%20Glow.mp3?sha=176057a8ad46a383",
+    "title": "Glenn Ligon. Warm Broad Glow. 2005"
+  },
+  "p298s4730": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMDgvOHU4OWliajVpYl9QYXVsX01wYWdpX1NlcHV5YV9BX1NpdHRpbmdfZm9yX01hdHRoZXcubXAzIl1d/Paul%20Mpagi%20Sepuya%20A%20Sitting%20for%20Matthew.mp3?sha=8545439f69f0b4b5",
+    "title": "Paul Mpagi Sepuya. A Sitting for Matthew. 2015"
+  },
+  "p298s4731": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMDgvNW9oZWV3NXh3Zl9QYXVsX01wYWdpX1NlcHV5YV9NaXJyb3JfU3R1ZHkubXAzIl1d/Paul%20Mpagi%20Sepuya%20Mirror%20Study.mp3?sha=917f5fdd6cdac44a",
+    "title": "Paul Mpagi Sepuya. Mirror Study (4R2A0857). 2016"
+  },
+  "p298s4812": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMDgvN2k0ajJzaXQ4Z19LZW50dXJhaF9EYXZpc19Db250ZW5kaW5nX3dpdGhfQ29udGluZ2VuY3lfSS5tcDMiXV0/Kenturah%20Davis%20Contending%20with%20Contingency%20I.mp3?sha=b24c92feb9e84818",
+    "title": "Kenturah Davis. Contending with Contingency I. 2021"
+  },
+  "297": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMTEvMjRnaDZzbmM2XzI5N2Vfc2VycmEubXAzIl1d/297e_serra.mp3?sha=fc4b1817d4ace108",
+    "title": "Richard Serra. Equal. 2015"
+  },
+  "p298s4745": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMTUvM2R4ZTlvdGs1aF9UYWxhX01hZGFuaV9BbmltYXRpb25zX092ZXJ2aWV3Lm1wMyJdXQ/Tala%20Madani%20Animations%20Overview.mp3?sha=72a56817f0e52600",
+    "title": "Tala Madani. Chit Chat. 2007"
+  },
+  "p298s4742": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTAvMTUvNmp6ZXZyNTQ5d19EYW5hX0NsYXh0b25fSGVhZGRyZXNzX092ZXJ2aWV3X0ZJTkFMLm1wMyJdXQ/Dana%20Claxton%20Headdress%20Overview_FINAL.mp3?sha=14fb8679b9a4809e",
+    "title": "Dana Claxton. Headdress - Connie. 2019"
+  },
+  "p298s4666": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTIvN202NWlsZW16OF9MaV9IdV9hbmRfSHVhbmdfV2VuamluZ19EdW5lX0FydF9NdXNldW1fdjEubXAzIl1d/Li%20Hu%20and%20Huang%20Wenjing%20Dune%20Art%20Museum_v1.mp3?sha=96e66f5483d74b4a",
+    "title": "Li Hu, Huang Wenjing. UCCA Dune Art Museum, Aranya, Hebei, China (Spatial model, scale 1:50). 2015\u20132018"
+  },
+  "p298s4734": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTIvNzdxYW9yaTJtel9DaHJpc19Db3JuZWxpdXNfUmFkaW9fRnJlZV9BbGNhdHJhel9HbHlwaHNfdjEubXAzIl1d/Chris%20Cornelius%20Radio%20Free%20Alcatraz%20Glyphs_v1.mp3?sha=50a068fe0f321ecd",
+    "title": "Chris Cornelius. Radio Free Alcatraz: Glyphs. 2014"
+  },
+  "p298s4733": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTIvNGJzczJqcnNkZF9DaHJpc19Db3JuZWxpdXNfQmVhcl92MS5tcDMiXV0/Chris%20Cornelius%20Bear_v1.mp3?sha=623ac8285e015222",
+    "title": "Chris Cornelius. Bear. 2009"
+  },
+  "p298s4642": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMTIvOGw0MnBma2g0eF9NYXJpbmFfVGFiYXNzdW1fS2h1ZGlfQmFyaV92MS5tcDMiXV0/Marina%20Tabassum%20Khudi%20Bari_v1.mp3?sha=a423fb034969733e",
+    "title": "Marina Tabassum, Piplu R. Kahn. Khudi Bari (tiny house). 2023"
+  },
+  "p298s4791": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTMvODNodzQ3NXU0Yl9aYW5lbGVfTXVob2xpX1N1bmRheV9GcmFuY2lzX01kbGFua29tby5tcDMiXV0/Zanele%20Muholi%20Sunday%20Francis%20Mdlankomo.mp3?sha=b942459a2c73f81c",
+    "title": "Zanele Muholi. Sunday Francis Mdlankomo, Vosloorus, Johannesburg. 2011"
+  },
+  "p298s4379": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMDUvMjUvNHluNGdkaWdsdF9EMV9Pc2thcl9TY2hsZW1tZXJfQmF1aGF1c19TdGFpcndheS5tcDMiXV0/D1_Oskar%20Schlemmer_Bauhaus%20Stairway.mp3?sha=f90a0f92ecec2084",
+    "title": "Oskar Schlemmer. Bauhaus Stairway. 1932"
+  },
+  "p289s340": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMnRnY3F5cTlpMF9lbmdfMTUubXAzIl1d/eng_15.mp3?sha=e1dc65720f625343",
+    "title": "Vincent van Gogh. The Starry Night. Saint R\u00e9my, June 1889"
+  },
+  "0034": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNjZwNGRyM2RqZl8wMDM0ZS5tcDMiXV0/0034e.mp3?sha=762f6494a4fffa55",
+    "title": "Georges-Pierre Seurat. Evening, Honfleur. 1886"
+  },
+  "p289s158": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDMvMDcvMmNwemZwMWpubF9NYXJjX0NoYWdhbGxfSV9hbmRfdGhlX1ZpbGxhZ2VfS0lEU192Mi5tcDMiXV0/Marc%20Chagall%20I%20and%20the%20Village%20KIDS_v2.mp3?sha=faf635fb0bace02a",
+    "title": "Marc Chagall. I and the Village. 1911"
+  },
+  "p289s147": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvMms2cnU1azIxa19QYWJsb19QaWNhc3NvX0d1aXRhcl9LSURTX3YxLm1wMyJdXQ/Pablo%20Picasso%20Guitar%20KIDS_v1.mp3?sha=f27b22116a3b1a8a",
+    "title": "Pablo Picasso. Guitar. Paris, January\u2013February 1914"
+  },
+  "p289s153": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvNHUyOWVvZGJ5Zl9HaW5vX1NldmVyaW5pX0R5bmFtaWNfSGllcm9nbHlwaGljX0tJRFNfdjEubXAzIl1d/Gino%20Severini%20Dynamic%20Hieroglyphic%20KIDS_v1.mp3?sha=051b69f351cfcafe",
+    "title": "Gino Severini. Dynamic Hieroglyphic of the Bal Tabarin. 1912"
+  },
+  "0036": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvOGExMTNrMHUxNl8wMDM2ZS5tcDMiXV0/0036e.mp3?sha=0d23a0f79ef3ee40",
+    "title": "Henri Matisse. The Red Studio. Issy-les-Moulineaux, fall 1911"
+  },
+  "p289s3212": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMTIvMzVnNW02dnNzb19Ob2d1Y2hpX015X1BhY2lmaWNfS0lELm1wMyJdXQ/Noguchi%20My%20Pacific%20KID.mp3?sha=29b7beb091a8d13d",
+    "title": "Isamu Noguchi. My Pacific (Polynesian Culture). 1942"
+  },
+  "p289s4559": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvOWNlZnE2cnd3ZF9Kb3NlcGhfU3RlbGxhX0ZpcnN0X0xpZ2h0X0tJRFNfdjEubXAzIl1d/Joseph%20Stella%20First%20Light%20KIDS_v1.mp3?sha=e5bc08848f3dad5d",
+    "title": "Joseph Stella. First Light. c. 1928"
+  },
+  "p289s4619": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMTIvMTkvOTN5cWIydHJ6OF9QYWJsb19QaWNhc3NvX1RocmVlX1dvbWVuX0tJRF92MS5tcDMiXV0/Pablo%20Picasso%20Three%20Women%20KID_v1.mp3?sha=06a2cc56b98a1915",
+    "title": "Pablo Picasso. Three Women at the Spring. Fontainebleau, summer 1921"
+  },
+  "p289s140": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvMXVuODZnZ2g0N19QaWNhc3NvX1RocmVlX011c2ljaWFuc19LSURfdjEubXAzIl1d/Picasso%20Three%20Musicians%20KID_v1.mp3?sha=51cd5b220f926acc",
+    "title": "Pablo Picasso. Three Musicians. Fontainebleau, summer 1921"
+  },
+  "2": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTAvZHo0bDlzdGowXzIuX0NsYXVkZV9Nb25ldF9XYXRlcl9MaWxpZXNfRnJvZ3NfVXBfNjQubXAzIl1d/2.%20Claude%20Monet,%20Water%20Lilies%20%20Frogs%20Up_64.mp3?sha=e597968e2df5fced",
+    "title": "Claude Monet. Water Lilies. 1914-26"
+  },
+  "p289s4617": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvOTM2Z2J4ZGw0bl9NZXJldF9PcHBlbmhlaW1fT2JqZWN0X0tpZHNfRklOQUwubXAzIl1d/Meret%20Oppenheim%20Object%20Kids_FINAL.mp3?sha=ac1fc2cec2e5920a",
+    "title": "Meret Oppenheim. Object. Paris, 1936"
+  },
+  "5": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTAvNzRzaG55bWpkbF81Ll9SZW1lZGlvc19WYXJvX1RoZV9KdWdnbGVyXzY0Lm1wMyJdXQ/5.%20Remedios%20Varo,%20The%20Juggler_64.mp3?sha=8363bf2dcbf7b49a",
+    "title": "Remedios Varo. The Juggler (The Magician). 1956"
+  },
+  "p289s4618": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvNGpocHJ6YjNyb19TYWx2YWRvcl9EYWxpX1BlcnNpc3RlbmNlX29mX01lbW9yeV9LSURfRklOQUwubXAzIl1d/Salvador%20Dali%20Persistence%20of%20Memory%20KID_FINAL.mp3?sha=8d6520284fd7c2dc",
+    "title": "Salvador Dal\u00ed. The Persistence of Memory. 1931"
+  },
+  "p289s344": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvN3hqa3Uwb3VvaF9lbmdfMTkubXAzIl1d/eng_19.mp3?sha=4cdd9f46a51b4eea",
+    "title": "Edward Hopper. House by the Railroad. 1925"
+  },
+  "4": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjAvMTAvMjgvMjFiZThlZ2xwbl80ZS5tcDMiXV0/4e.mp3?sha=3e971b63ca2f4a27",
+    "title": "Leonora Carrington. Green Tea. 1942"
+  },
+  "p289s4878": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvNTkwZ3drejIyal9MdWNpZV9Db3VzdHVyaWVyX1dvbWFuX1JlYWRpbmdfS0lEUy5tcDMiXV0/Lucie%20Cousturier%20Woman%20Reading%20KIDS.mp3?sha=36056534f08efc68",
+    "title": "Lucie Cousturier. Woman Reading. 1907"
+  },
+  "p289s142": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDEvMTIvODIyejVyZnVtYV9Qb2xsb2NrX09uZV9OdW1iZXJfMzFfS0lELm1wMyJdXQ/Pollock%20One%20Number%2031%20KID.mp3?sha=7ac46a3db9bed6da",
+    "title": "Jackson Pollock. One: Number 31, 1950. 1950"
+  },
+  "9": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTAvOXFzZm93cHRhaF85Ll9MZWVfQm9udGVjb3VfVW50aXRsZWRfMTk2MV82NC5tcDMiXV0/9.%20%20Lee%20Bontecou,%20Untitled,%201961_64.mp3?sha=b217c1dd12a71a0f",
+    "title": "Lee Bontecou. Untitled. 1959"
+  },
+  "p289s4691": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDgvOG83aDZxM3dqNF9Kb2huX091dHRlcmJyaWRnZV9Ccm9rZW5fRGFuY2VfS0lEUy5tcDMiXV0/John%20Outterbridge%20Broken%20Dance%20KIDS.mp3?sha=a461a28f232d54a8",
+    "title": "John Outterbridge. Broken Dance, Ethnic Heritage Series. c. 1978-82"
+  },
+  "0040": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMWJ4cGVnOXF2b18wMDQwZS5tcDMiXV0/0040e.mp3?sha=511544683d645740",
+    "title": "Andy Warhol. Campbell's Soup Cans. 1962"
+  },
+  "p289s150": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMjgvMWo1MThpNTBreF9DbGFlc19PbGRlbmJ1cmdfR2lhbl9Tb2Z0X0Zhbl9LSUQubXAzIl1d/Claes%20Oldenburg%20Gian%20Soft%20Fan%20KID.mp3?sha=dd4fd11546fb2a81",
+    "title": "Claes Oldenburg. Giant Soft Fan. 1966-67"
+  },
+  "p289s348": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDQvMjgvdHpuYmZoYXJxX0Rhbl9GbGF2aW5fVW50aXRsZWRfMTk2OV9LSURfMV8ubXAzIl1d/Dan%20Flavin%20Untitled%201969%20KID%20%281%29.mp3?sha=432aa24ba9ea0262",
+    "title": "Dan Flavin. untitled. 1969"
+  },
+  "85": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjEvMDYvMjUvMjBteGJxeXl4Yl84NV9Pc2Nhci5tcDMiXV0/85%20Oscar.mp3?sha=5a7eb9045565ba36",
+    "title": "General Motors Corporation, Detroit, MI. \"Oscar\" car design template. 1950s"
+  },
+  "p289s4605": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMTQvMWZsbWpmaGkyeV9HdW5uYXJfQWFnYWFyZF9BbmRlcnNlbl9Bcm1jaGFpcl9LSURTX0ZJTkFMLm1wMyJdXQ/Gunnar%20Aagaard%20Andersen%20Armchair%20KIDS_FINAL.mp3?sha=ae95a99b834cbb80",
+    "title": "Gunnar Aagaard Andersen. Armchair. 1964"
+  },
+  "p289s4862": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTIvOXBrZ2l0Z2l6bF9DbGFlc19PbGRlbmJ1cmdfQ2hlZXNlYnVyZ2Vyc193aXRoX0V2ZXJ5dGhpbmdfS0lEU19GSU5BTC5tcDMiXV0/Claes%20Oldenburg%20Cheeseburgers%20with%20Everything%20KIDS_FINAL.mp3?sha=6068e1659487b817",
+    "title": "Claes Oldenburg. Two Cheeseburgers, with Everything (Dual Hamburgers). 1962"
+  },
+  "p289s4863": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTEvMTIvcnd5eGdnbTV6X0xvdWlzZV9OZXZlbHNvbl9Ta3lfQ2F0aGVkcmFsX0tJRFMubXAzIl1d/Louise%20Nevelson%20Sky%20Cathedral%20KIDS.mp3?sha=48af686c9261262d",
+    "title": "Louise Nevelson. Sky Cathedral. 1958"
+  },
+  "p289s3830": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMTgvNnplZmg0cnBwdF9ORVdfQXJ0aHVyWW91bmdfSGVsaWNvcHRlci5tcDMiXV0/NEW_ArthurYoung_Helicopter.mp3?sha=03b0711ee470c551",
+    "title": "Arthur Young. Bell-47D1 Helicopter. 1945"
+  },
+  "p289s4516": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDQvMjYvN291aDZ5bWZybV9NYWNoYWRvX1NocmluZV9LSUQyLm1wMyJdXQ/Machado%20Shrine%20KID2.mp3?sha=dd0ed9711d0043ea",
+    "title": "Agosto Machado. Shrine (White). 2022"
+  },
+  "1": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvbG5pa2dyZ3F4XzFlLm1wMyJdXQ/1e.mp3?sha=972851a8da673b9e",
+    "title": "Henri Rousseau. The Dream. 1910"
+  },
+  "p289s346": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMnh5bjBxbjJkOV9lbmdfNDUubXAzIl1d/eng_45.mp3?sha=0c6f32ea277d5c8b",
+    "title": "Louise Bourgeois. Quarantania, I. 1947-53; reassembled by the artist 1981"
+  },
+  "p289s4903": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDIvMDIvMWM4NW5mbnIxOV9FTkdfMi5tcDMiXV0/ENG_2.mp3?sha=4ac55d8aaa911657",
+    "title": "Elizabeth Murray. Do the Dance. 2005"
+  },
+  "p289s349": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvMnJ5MWN0bDljd19lbmdfNDgubXAzIl1d/eng_48.mp3?sha=a8222fe3e00928aa",
+    "title": "Hector Guimard. Entrance Gate to Paris Subway (M\u00e9tropolitain) Station, Paris, France. c. 1900"
+  },
+  "55": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMjQvcnF3aXByY3ViXzU1ZV9lZGl0Lm1wMyJdXQ/55e_edit.mp3?sha=6bd7bb0465434911",
+    "title": "Paul C\u00e9zanne. The Bather. c. 1885"
+  },
+  "p3s4289": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvNmdza3AzOHpuaV9WYW5fR29naF9GaW5hbF9EZXNjcmlwdGlvbl9hbmRfSW50ZXJwcmV0YXRpb24ubXAzIl1d/Van%20Gogh%20Final%20Description%20and%20Interpretation.mp3?sha=5212ece52a7e0f01",
+    "title": "Vincent van Gogh. The Starry Night. Saint R\u00e9my, June 1889"
+  },
+  "p3s168": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMTQvNDdnODFpcml3c19TZXVyYXRfRXZlbmluZ19Ib25mbGV1cl9WZXJiYWxfRGVzY3JpcHRpb25fRklOQUwubXAzIl1d/Seurat%20Evening%20Honfleur%20Verbal%20Description_FINAL.mp3?sha=4ca175b0e422f790",
+    "title": "Georges-Pierre Seurat. Evening, Honfleur. 1886"
+  },
+  "56": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNTRwYWU1M3o3bl81NmUubXAzIl1d/56e.mp3?sha=31549aaca57afc3a",
+    "title": "Pablo Picasso. Les Demoiselles d'Avignon. Paris, June-July 1907"
+  },
+  "p3s4291": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvM2hoMXVsZmp6bV9DaGFnYWxsX0Rlc2NyaXB0aW9uX2FuZF9JbnRlcnByZXRhdGlvbl9GaW5hbF8yLm1wMyJdXQ/Chagall%20Description%20and%20Interpretation%20Final%202.mp3?sha=176521202f926c3e",
+    "title": "Marc Chagall. I and the Village. 1911"
+  },
+  "79": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMjQvN2pqYmdtZ3c2Nl83OWVfdXBkYXRlZC5tcDMiXV0/79e_updated.mp3?sha=bc886cbb128730d2",
+    "title": "Pablo Picasso. Guitar. Paris, January\u2013February 1914"
+  },
+  "p3s162": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMTQvNXNqajVzNmY0dF9NYXRpc3NlX1RoZV9SZWRfU3R1ZGlvX1ZlcmJhbF9EZXNjcmlwdGlvbl9GSU5BTC5tcDMiXV0/Matisse%20The%20Red%20Studio%20Verbal%20Description_FINAL.mp3?sha=46c09dc42d843c61",
+    "title": "Henri Matisse. The Red Studio. Issy-les-Moulineaux, fall 1911"
+  },
+  "p3s184": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMTQvOGN6ZWoxOTN2a19NYXRpc3NlX0RhbmNlX0lfVmVyYmFsX0Rlc2NyaXB0aW9uX0ZJTkFMLm1wMyJdXQ/Matisse%20Dance%20I%20Verbal%20Description_FINAL.mp3?sha=8f7b69af23beb490",
+    "title": "Henri Matisse. Dance (I). Paris, Boulevard des Invalides, early 1909"
+  },
+  "p3s4292": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvOGU5azQzendueF9kb19BbWFyYWxfRGVzY3JpcHRpb25fYW5kX0ludGVycHJldGF0aW9uX0ZpbmFsXzIubXAzIl1d/do%20Amaral%20Description%20and%20Interpretation%20Final%202.mp3?sha=9e1d2f8a66b148d2",
+    "title": "Tarsila do Amaral. The Moon. 1928"
+  },
+  "p3s4436": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMTEvMTcvMmh2cHQyYmowcF9UaHJlZV9Xb21lbl9hdF90aGVfU3ByaW5nX1ZlcmJhbF9EZXNjcmlwdGlvbl9EMi41Lm1wMyJdXQ/Three%20Women%20at%20the%20Spring%20Verbal%20Description_D2.5.mp3?sha=dacf9ec50c4a0218",
+    "title": "Pablo Picasso. Verbal Description: Three Women at the Spring. Fontainebleau, summer 1921"
+  },
+  "p3s175": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjMvMTAvMTEvNDEweHJyaThoal9UaHJlZV9NdXNpY2lhbnNfVmVyYmFsX0Rlc2NyaXB0aW9uX0QyLm1wMyJdXQ/Three%20Musicians%20Verbal%20Description_D2.mp3?sha=a61502a8cb5b983f",
+    "title": "Pablo Picasso. Verbal Description: Three Musicians. Fontainebleau, summer 1921"
+  },
+  "p3s173": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvMm9ka2gxMWNxeF9Nb25ldF9EZXNjcmlwdGlvbl9hbmRfSW50ZXJwcmV0YXRpb25fRmluYWwubXAzIl1d/Monet%20Description%20and%20Interpretation%20Final.mp3?sha=5825a10b8496e2b1",
+    "title": "Claude Monet. Water Lilies. 1914-26"
+  },
+  "p3s163": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMTQvODdzemU3MDQ3b19EYWxpX1RoZV9QZXJzaXN0ZW5jZV9vZl9NZW1vcnlfVmVyYmFsX0Rlc2NyaXB0aW9uX0ZJTkFMLm1wMyJdXQ/Dali%20The%20Persistence%20of%20Memory%20Verbal%20Description_FINAL.mp3?sha=ef6e3c87ddb8a921",
+    "title": "Salvador Dal\u00ed. The Persistence of Memory. 1931"
+  },
+  "p3s172": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjQvMDgvMTQvOGpxYmV4aTlqZF9HaWFjb21ldHRpX1RoZV9QYWxhY2VfYXRfNEFNX1ZlcmJhbF9EZXNjcmlwdGlvbl9GSU5BTC5tcDMiXV0/Giacometti%20The%20Palace%20at%204AM%20Verbal%20Description_FINAL.mp3?sha=9f31d120ca64769d",
+    "title": "Alberto Giacometti. The Palace at 4 a.m. 1932"
+  },
+  "73": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDIvOGFqanp0NHFhXzczZV91cGRhdGVkMjAyNi5tcDMiXV0/73e_updated2026.mp3?sha=7ca1774601a4a505",
+    "title": "Giorgio de Chirico. Gare Montparnasse (The Melancholy of Departure). Paris, early 1914"
+  },
+  "p3s182": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvOWIzNDMwbTdsa19Qb2xsb2NrX0Rlc2NyaXB0aW9uX2FuZF9JbnRlcnByZXRhdGlvbl9GaW5hbC5tcDMiXV0/Pollock%20Description%20and%20Interpretation%20Final.mp3?sha=869202e5beff7a92",
+    "title": "Jackson Pollock. One: Number 31, 1950. 1950"
+  },
+  "74": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDEvMjQvNnliaDhsMDd3dV83NGVfdXBkYXRlZC5tcDMiXV0/74e_updated.mp3?sha=42a14e041a80686a",
+    "title": "Barnett Newman. Vir Heroicus Sublimis. 1950-51"
+  },
+  "p3s4284": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvM202NzIwMzk3dV9OaWtpX2RlX1NhaW50X1BoYWxsZV9EZXNjcmlwdGlvbl9hbmRfSW50ZXJwcmV0YXRpb25fRmluYWwubXAzIl1d/Niki%20de%20Saint%20Phalle%20Description%20and%20Interpretation%20Final.mp3?sha=8b92d947372dcfdb",
+    "title": "Niki de Saint Phalle. Shooting Painting American Embassy. 1961"
+  },
+  "86": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTcvMDYvMjIvNzNoczBwNTJqcF84NmUubXAzIl1d/86e.mp3?sha=a28204172819e788",
+    "title": "Joseph Beuys. Eurasia Siberian Symphony 1963. 1966"
+  },
+  "p3s4286": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvMXd6cXAyOWF3d19XYXJob2xfRGVzY3JpcHRpb25fYW5kX0ludGVycHJldGF0aW9uX0ZpbmFsLm1wMyJdXQ/Warhol%20Description%20and%20Interpretation%20Final.mp3?sha=b47a170534b58c84",
+    "title": "Andy Warhol. Campbell's Soup Cans. 1962"
+  },
+  "p3s4288": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvMXEzd29nZjAxcF9SaW5nZ29sZF9EZXNjcmlwdGlvbl9hbmRfSW50ZXJwcmV0YXRpb25fRmluYWwubXAzIl1d/Ringgold%20Description%20and%20Interpretation%20Final.mp3?sha=d7a801be9e3402ef",
+    "title": "Faith Ringgold. American People Series #20: Die. 1967"
+  },
+  "p3s4644": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMTIvMDkvNHo3NXY5aXcwMV9GcmlkYV9LYWhsb19NeV9HcmFuZHBhcmVudHNfTXlfUGFyZW50c19hbmRfSV9WZXJiYWxfRGVzY3JpcHRpb24ubXAzIl1d/Frida%20Kahlo%20My%20Grandparents,%20My%20Parents,%20and%20I%20Verbal%20Description.mp3?sha=8a5573355e0a5417",
+    "title": "Frida Kahlo. My Grandparents, My Parents, and I. 1936"
+  },
+  "p3s4293": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvNGUwNWl1c3U0Yl9LYWhsb19EZXNjcmlwdGlvbl9hbmRfSW50ZXByZXRhdGlvbl9GaW5hbF8yLm1wMyJdXQ/Kahlo%20Description%20and%20Intepretation%20Final%202.mp3?sha=482687325d1f5f84",
+    "title": "Frida Kahlo. Self-Portrait with Cropped Hair. 1940"
+  },
+  "p3s4295": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjUvMDkvMDQvNjg5MG5kemNzM19MYW1fRGVzY3JpcHRpb25fVVBEQVRFRDIwMjUwOTA0Lm1wMyJdXQ/Lam%20Description_UPDATED20250904.mp3?sha=0e28dec81367b1ff",
+    "title": "Wifredo Lam. La jungla (The Jungle). 1942\u201343"
+  },
+  "p3s188": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvcWxjNTI5bTBsX1JvdXNzZWF1X0Rlc2NyaXB0aW9uX2FuZF9JbnRlcnByZXRhdGlvbl9GaW5hbC5tcDMiXV0/Rousseau%20Description%20and%20Interpretation%20Final.mp3?sha=9358377e31cddbbc",
+    "title": "Henri Rousseau. The Dream. 1910"
+  },
+  "p3s183": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjIvMTEvMDkvOTFjNGhkeTh5ZV9Cb3VyZ2VvaXNfRGVzY3JpcHRpb25fYW5kX0ludGVycHJldGF0aW9uX0ZpbmFsLm1wMyJdXQ/Bourgeois%20Description%20and%20Interpretation%20Final.mp3?sha=e1173c8a2afade39",
+    "title": "Louise Bourgeois. Quarantania, I. 1947-53; reassembled by the artist 1981"
+  },
+  "p294s3855": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvMm1udjhtbDBpN19Bbm5fVGVta2luX01hdGlzc2VfQmFja3NyMy5tcDMiXV0/Ann_Temkin_Matisse_Backsr3.mp3?sha=a15200f74d51b8fb",
+    "title": "Henri Matisse. Back (I-IV). Paris, Couvent du Sacr\u00e9 Coeur, and Issy-les-Moulineaux, spring 1908-late 1909"
+  },
+  "p294s3864": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNWd0d2trNWp1NV9Bbm5fVGVta2luX1BpY2Fzc29TaGVHb2F0XzAycjMubXAzIl1d/Ann_Temkin_PicassoSheGoat_02r3.mp3?sha=5590fb39be45d215",
+    "title": "Pablo Picasso. She-Goat. Vallauris, 1950 (cast 1952)"
+  },
+  "p294s18": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvNWNuM29pdzVqNF9OZXdfMTA3ZV9NYWlsbG9sLm1wMyJdXQ/New_107e_Maillol.mp3?sha=e0662ce36f61bbde",
+    "title": "Aristide Maillol. The River. Begun 1938-39; completed 1943 (cast 1948)"
+  },
+  "109": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvMTRldG5mNGY4bl8xMDllLm1wMyJdXQ/109e.mp3?sha=ffdfd988dd3b5c30",
+    "title": "Rachel Whiteread. Water Tower. 1998"
+  },
+  "106": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMDkvMjYvMTBzeXgxZjcyOV8xMDZlLm1wMyJdXQ/106e.mp3?sha=ec0a96fd82a9c4a9",
+    "title": "Hector Guimard. Entrance Gate to Paris Subway (M\u00e9tropolitain) Station, Paris, France. c. 1900"
+  },
+  "p294s3861": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMDIvNm43N3RtYW9nc19jaGV0X21lZGl0YXRpb25fcjMubXAzIl1d/chet_meditation_r3.mp3?sha=43d68489163a772f",
+    "title": "Meditation Sequence"
+  },
+  "p294s3859": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMDIvNWF1NmM3eTlidF9NZWxhbmllX0dhcmRlbl9SQ19yMy5tcDMiXV0/Melanie_Garden_RC_r3.mp3?sha=471ed2f019d2a380",
+    "title": "The Garden Landscape"
+  },
+  "p294s3870": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMTkvMTAvMDIvOGlvdWJieHFkZV9KYXNvbldhcmRfUkNfMDIubXAzIl1d/JasonWard_RC_02.mp3?sha=e6a5fee383db3a02",
+    "title": "Birdwatching in the Garden. 2019"
+  },
+  "p351s4909": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvMzE3eGV0ZnV4bl9Jbl9Xb3JzaGlwX0QxLm1wMyJdXQ/In%20Worship_D1.mp3?sha=eb1ba3c28aff8ecb",
+    "title": "Safia Wells. In Worship. 2025"
+  },
+  "p351s4905": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvNHloOHltNWU5M19XYWl0X2Zvcl90aGVfTGlnaHRfRDEubXAzIl1d/Wait%20for%20the%20Light_D1.mp3?sha=1091f627b76b9a18",
+    "title": "Elizabeth Yanagi. We Don't Wait for the Light; We Make It. 2025"
+  },
+  "p351s4906": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvMnl2bTYzcHhkdF9TdGlsbF9IZXJlX0QxLm1wMyJdXQ/Still%20Here_D1.mp3?sha=12f9637264d5b499",
+    "title": "Isla Dalisay-Hockett. Why Are You Still Here? 2025"
+  },
+  "p351s4904": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvMWJxb3VxeTlwZ19SZXZpc2lvbmlzdF9IaXN0b3J5X0QxLm1wMyJdXQ/Revisionist%20History_D1.mp3?sha=ca6bd8b52507700c",
+    "title": "Lucas Miranda. Revisionist History. 2025"
+  },
+  "p351s4907": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvNjRyNmg5ejBkaV9NYW55X3RvX0NvbWVfRDEubXAzIl1d/Many%20to%20Come_D1.mp3?sha=3edf2deef5c0c31f",
+    "title": "Miles McCaffrey. To the Many to Come. 2025"
+  },
+  "p351s4908": {
+    "url": "https://www.moma.org/d/audios/W1siZiIsIjIwMjYvMDMvMDcvNHN2cTU2Y3JzX1NhbHZhdGlvbl9EMS5tcDMiXV0/Salvation_D1.mp3?sha=032dbbe9faa6aa4a",
+    "title": "Nicholas Mayne-Chang. All the Broken Limbs on the Pathway to Salvation. 2025"
+  }
+}
