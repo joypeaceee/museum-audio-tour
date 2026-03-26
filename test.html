@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+<style>
+  body { background: #000; color: #fff; font-family: sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
+  h1 { font-size: 24px; text-align: center; }
+</style>
+</head>
+<body>
+  <h1>HN Test ✓<br><span style="font-size:14px;color:#888;" id="info">Loading...</span></h1>
+  <script>
+    document.getElementById('info').textContent =
+      window.innerWidth + 'x' + window.innerHeight +
+      ' | ' + location.protocol +
+      ' | UA: ' + navigator.userAgent.substring(0, 50);
+  </script>
+</body>
+</html>

@@ -553,7 +553,14 @@
   }
 
   // ==================== ACTIONS ====================
+  var _lastActionTime = 0;
+  var ACTION_DEBOUNCE_MS = 300;
+
   function handleAction(action, element) {
+    // Debounce: EMG tap fires both click and Enter keydown
+    var now = Date.now();
+    if (now - _lastActionTime < ACTION_DEBOUNCE_MS) return;
+    _lastActionTime = now;
     switch (action) {
       case 'back':
         navigateBack();
