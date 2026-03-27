@@ -74,5 +74,389 @@
   "237": {
     "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0382379f0a5be04895fb5dd35ac2e8d703734accac85064451cff0aff935cdc67a2311339a84bd6390fde3e716d6b675122e618dc02b392bc479df685889decd3.mp3",
     "title": "\u00c9lisabeth-Suzanne de Jaucourt, Comtesse du Cayla"
+  },
+  "10": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d05f5fdecd4c3ea6719a309c9bc37bacc4efae2d8b30489370a05ccb220e446c92b525d79c4de8c5efac8a030cd3bf1593da9d1b09944478f2e5157d9150ce580c.mp3",
+    "title": "Living Hall"
+  },
+  "104": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0ad31360e1e8a737ff1b63b6380164a7e9415497f97b92b044ef46cfc9f23bc8dc3547a316e8b617639087086d370050e09752d0901ebc913fb03a08b2bea9918.mp3",
+    "title": "Sir Thomas More"
+  },
+  "180": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d05498d61a73cbb093a28d2e83c465b840258aeaf81bc8ad6de8fb68a8b4109b67ef34d0551492274d6560fb85dd53caa26d67c5417cd54b57abd9f08f6bbbaa78.mp3",
+    "title": "St. Jerome"
+  },
+  "105": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0fffa040b12d475a28ec7722f70f2d50d2a71193733fc038e30b3b7c45c9c59f532673008eaae882bc323d497a1fd674f2c2d00006d523b99deae5416a84cbe69.mp3",
+    "title": "Thomas Cromwell"
+  },
+  "142": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0de5054dd03997dc190ca21619cc0c61f4d746dca4964ad83655f4efed64cff8d09a8e97556b04550f5f3552b52288c67f802a5c8ff83dfcb69e702a6cf89b3c3.mp3",
+    "title": "Portrait of a Man in a Red Hat"
+  },
+  "177": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d00de8dd671ffa4a7651ff81edbade7a6473e5a3db74c139a5193d3f8d0f5a99617b02b7f4fcb3c73fab230cc6f084c2ae27c12d859104b095e8f69393f96593aa.mp3",
+    "title": "St. Francis in the Desert"
+  },
+  "146": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d04c0a6beca7676bef9e819befd0c8b9ad55f3330a47377fc091f08f95c7d7607651c57bd3e2b75c52f3e5e5dc746cf23dbd1a57a6a8c6b1e962a9f4a4f09acc92.mp3",
+    "title": "Pietro Aretino"
+  },
+  "139": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0569f3c2dc519264566bcc7dde1e69d6a1b18b96f9ef5f0132ff10292bcf28087b9d691cb8f9a9b353979d94372e1088ebff9569e1d6b6e846956cd842f2b9632.mp3",
+    "title": "Two Figures of Ladies on Stands"
+  },
+  "173": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d005987f5526ef74fc7d82a8029e9ce650fe45f7a54b079c6857fb7b5884fc5c6bf0f838bab740e09ef5903e9e2b111ca5469fd755469bdb9d23a5bd27e32ad5b1.mp3",
+    "title": "Samson and Two Philistines"
+  },
+  "11": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d026786e31e0e9543a1edf336791435bb22e9d5f0c03aeb99b7e0c5aa3ce9ec30272d0ed65b86ece2ef1f08ededdd353bceab69b0fc1f4434aab98ca85943f9165.mp3",
+    "title": "Library"
+  },
+  "219": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0996570b4d701c5864ca55013f9dc4dd5f911698193ba5e5a1c009a1b2190bf5607bead000ee7bc220cab90de11c53d310e79084aca24267a049fbca7cb4d1ce3.mp3",
+    "title": "Selina, Lady Skipwith"
+  },
+  "220": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d045ac02a7e0cdfdc12a036ade6923bc14a0a7717da9731ccc00d7f9ff7a74387aad205516ea08bd30e4b5ffd66cabe8d911fc9c9ad2aff5faa5ee68eca0de698c.mp3",
+    "title": "Elizabeth, Lady Taylor"
+  },
+  "228": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0082e6bdea57cbada886ec775e38fcce5e93114a23ce5ca06a9b3635268ed9b68d4f1c40ec2621507e8ed062362ba36fbf2297bf42b5c4bb1afb647bcdafb4142.mp3",
+    "title": "Julia, Lady Peel"
+  },
+  "214": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0d358b86d0ef0fb5151dd4c556e8f96f63a271bccced3d028161cd9e66b8810454cb123f050b797cda0b1654b2f748beaf3750ade6b851ba1992335ccfc41a43a.mp3",
+    "title": "Vase Japon"
+  },
+  "12": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0454b61fb53fc706272f7573c6534991a0395bd59440216c7bc79629bc59ad48dd381c0c85bc1c76a0a78dd3000b9b0ae4299e15716ececd06b82b36e86176be4.mp3",
+    "title": "Portico Gallery"
+  },
+  "174": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d056c78c019e1d74b79b42fbb9180808a93aa374437602498e049c9c97a36d1d067f49163a67adb32c3f5a847accb443747768664d0c7a6ba34d7918a82463ceb6.mp3",
+    "title": "Diana the Huntress"
+  },
+  "13": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0208e3668d8ed2015741f78680ca7f9eb281a87d4e07ed4cd9b98af6d65cdce4fb52459ff8ef400e336baa70432657247e1e6da54ef411a1ea4d59c88ae1353b3.mp3",
+    "title": "West Gallery"
+  },
+  "238": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0d2370ac2efa5a8a44d44dd94f7df81fc1128c6dcccd356d0f940482072dda760fb3ffe6b0d556f1e6a523c12aebc5c4e10e2e2c58206fe41a6355124750217f7.mp3",
+    "title": "The Lake"
+  },
+  "183": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d038926f9af6e7b4c1a21de8ff18ebc1c4fbb951af13ad2fe2d096dd09ae0e02299d1ee8f3fd6d5e03464cf0d4aee4df24d819b2e77fa4b36054ecbb484b26930d.mp3",
+    "title": "Don Pedro, Duque de Osuna"
+  },
+  "217": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d023e91e626e28e1e65799cbdf75bc25207eba9e6dbfc12de9e0879c0fdf28358e29b2ad70bdc73c51ab04032f22f045dc33869e16bc143fdfc2b811f680c207ce.mp3",
+    "title": "Harbor of Dieppe: Changement de Domicile"
+  },
+  "107": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0fe3fa8e8d3db5e0a6444a4b1fd5820d127501f629269f0b8f1dd26242c45402c87f44cd4e91b516dbe72487f78ff0506f79138e30b2adceabaca53f69b597e19.mp3",
+    "title": "Village with Water Mill among Trees"
+  },
+  "108": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a88216d10968a9cc4d3798cef7bb66b5cdfae36b870aad797cbbfbd8fafafd6b0a9a191589d8534ca2d526fa453ba6728e5f9bcb4f87f5243d19ffb1a2bf83c5.mp3",
+    "title": "Portrait of a Man"
+  },
+  "112": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0469e0b7af08c21add6b3d7ee3e8efffaaaea3058ed98657317af5f18dcc86f02db3325155fc4b794ec05871ba8343aa6a637afb6ef40ae6c475f2ac81a728c5f.mp3",
+    "title": "The Polish Rider"
+  },
+  "109": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0e3f142b83bedf4db9116a5c727248aa0bdf492be687fa681fc90e54c834448d29516df3cd8b894f422657a42b249541a68aee3932b91bde1aded76140bd0150d.mp3",
+    "title": "Portrait of an Elderly Man"
+  },
+  "216": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d097996dab460d2747e400259863f007556172ed1329489dcdff689745ccb366f1452473f8921483a6ba2dd11978984582eb5fa0523e87f6a1b21269827d304eda.mp3",
+    "title": "Cologne, the Arrival of a Packet-Boat: Evening"
+  },
+  "110": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a7d469fa73f4da97c632b738c315fc6267aef9e5c9afb9c764ca6a123572c74071806f6be7aff25fb71362326f6f80443603c6f36faba4ae79d3eaf6af06d4ff.mp3",
+    "title": "Portrait of a Woman"
+  },
+  "113": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0386215adfecfa23ab812373303b61d303b1f18708da1122905f9307c331500726cf2d14fa946b268c4118c1eded772cb957b72d801fd4db38e8223cc540c31fa.mp3",
+    "title": "Self-Portrait"
+  },
+  "121": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0f2027be672978393468cd9c3e1f9400404c8eb9c895c39a1f86d10607390fc09286f1339c56ba6354c8b0f92b302f7af1602a036a53ac6ba9672c1c30b455cc3.mp3",
+    "title": "Mistress and Maid"
+  },
+  "111": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0417377e39cfda003e9470f2b827637ff0429bbda4cdd00f684c51d84f20eef707ea38931a7239baf8b5e62841f4ddc4272f4f1af7157c849dafe250be0cfbb2e.mp3",
+    "title": "Nicolaes Ruts"
+  },
+  "186": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d00fbdbfea3db1d69c0129199c469f134c23dc3ef15c0d8f78c18fb3baab63e26b498dc78f15fe2792f11daa2e64def0c681ce26d59af22e6dbd770bdd46624caf.mp3",
+    "title": "King Philip IV of Spain"
+  },
+  "184": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d096a448bb22191c7c6ecb847a105c27c996e2d726dbd9f58738c1c09d59165c4cd4c53081585c0c6fea5e2651cda10ca9f68ea05ff761ee54a012907a2ca9439c.mp3",
+    "title": "The Forge"
+  },
+  "181": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d054544d74211569aa97c401b5eca8de820e642f97c5adeb1f89aac11e324b25344764b7d1e78067cf3910f84bfeff67e7c5a043ad7467008b2d0b301d76c4c81a.mp3",
+    "title": "Vincenzo Anastagi"
+  },
+  "167": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d002c15080d316a747a26ab7ae693e18c19638affc0faec8a03059284411d9b694f31c65b0f4ef9f69ced32e8afa0afc0e169b17e7b6bacd805cce9e2d596139b9.mp3",
+    "title": "Triton and Nereid"
+  },
+  "166": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a0b77e3662008e3493fc8bdd40e701272cf1128db49c3a40e2317e1c52cc04623b7e9bd57dd3508a561eb84397737bde83077341e263828c5eaf5b39118e7e50.mp3",
+    "title": "Nessus and Deianira"
+  },
+  "168": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d02335fac0531013eaecf274233637d27a3f3fc5a97925ebf991acfb7af8110e3b5f2a79040bfb1d4135c751f510e06dbfb8ed6569a0157bf64e6b439705cb9342.mp3",
+    "title": "Hercules and the Hydra"
+  },
+  "175": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d02d504da73fe59294fb6abcd0970fdb42bcca01250f60c3cf7b0e79c1c6b72e696b0e12221fae42bf2f913f820708e99163400ce7856bf32c302b058a4ae06dc1.mp3",
+    "title": "Mercury with the Head of Argus"
+  },
+  "176": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a1553878ec621ac54b34a769de56b5246fb48b99d855a8021269e23fa929af400cfdfae9f12f09a75585775a9a06fbe0bfefbadef618e43c861826226367b881.mp3",
+    "title": "Mars"
+  },
+  "157": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0411f9c4f71664c6e7730a431e954ae8d45306d3a78c62d09f999c21628557f6de2a0bffe7178ea5d66aa342238faa59753dc9d281edf05de6137a2a587e9f824.mp3",
+    "title": "Neptune on a Sea-Monster"
+  },
+  "144": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0eca12ab0e04a323f6f1b425c8f4b2fe0df658cf4d0f652b45ae9ef189c738b8f49cbde426928f2020151b6dd5cc6e4af910bb22106692acb3801a65e4001488a.mp3",
+    "title": "St. John Baptizing"
+  },
+  "161": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a25f4c28f25fe5dd535777e6cc477d870589dc5e7b2dd738507e45f06df4e3527019360372b93d53b709c76c7d31a98610c5ce5a25bcd851d550ce4ca01a937a.mp3",
+    "title": "Hercules Triumphing over Achelous (?)"
+  },
+  "14": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0eb885f4a1029bc159d7a5d5b3ff7a3ee43589bff484b9b04eee744e945ed4960feb7e120939a515f80fb3c6e0739f2d553a195b0765af94f2893a6f95107105c.mp3",
+    "title": "Enamels Room"
+  },
+  "151": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a443853ff622a956b763cf66cb2487aff02538ecb1b122b44cbbe4530c67e22d92b27f62668fb26f8d9951b88fb1aa3f26aeee3b9e53bb5137f505c1c5e2228e.mp3",
+    "title": "Shield Bearer"
+  },
+  "153": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d04ad62e4ef769097f756604a0a8da8af54e4f5d230087fa40d09b8bd0279bb5cac35d9c1fc054a76b88112db1a4b62c8c4a2dd446dc1607ef65515942d82f632e.mp3",
+    "title": "Hand Bell"
+  },
+  "152": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d00a3f633aa93e3e725220ee2f159de28fe5bcb50824b486fef2f993d30d518a0620578b2f95e562d08b75bf778898f2a2c76717148d519ff5fe520fc6f04b6b1c.mp3",
+    "title": "Lamp"
+  },
+  "189": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d06f4d15c95082bfe15bbfecb1ef6dd12bcef3788d2f7c6d0a1c6ae6a0a248536cde61a63f9083ac39dc46f5aff3d4f0d7d5ec15891ea792cfdf32a87ee0f7b86b.mp3",
+    "title": "Dish: Judgment of Paris"
+  },
+  "130": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0b8a5286dc61d74edf0e1afe6b3a9875d92122077087456a5adf1531333b11615c0f75e42acf53a8625a6d8834736abe49f5f37e13d9a7bee26c7632cc8e40005.mp3",
+    "title": "Beatrice of Aragon"
+  },
+  "132": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d03819888130c7c4df4c73031ddc198a22604e42b69cb40017082a5f98c8cb893f81a4c89737da54735de2bd9e5a17a92d9e9e63316aa23a474108d9ca966c7995.mp3",
+    "title": "Bust of a Woman"
+  },
+  "160": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0e3bf696c352752bb048216ceaaea58f72fbc32c930359fd512f1b0601bc8e6e915c5d2c459dfd78381b0ab2297250e5d18b52784fad670cd1b6df05a82ad4a26.mp3",
+    "title": "St. Francis of Assisi"
+  },
+  "155": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0a9cfa0d8b944de62822afc8016b4d832953aabc563250027546651700781dbd7f04b78a42d7062c24ffc3ebacedf643812e9986fc185903bb7fd07bb3d241ece.mp3",
+    "title": "Hercules"
+  },
+  "154": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d04ec35a7637f34b28c905aa96ae770157015f28514b9c35ae6b0a43fabc3c42e57eeba56b7226ad618bf9183bcda54fade0f2ad9bcda8af357dc8d9364fc6247c.mp3",
+    "title": "Nude Female Figure (Shouting Woman)"
+  },
+  "156": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d086caa3448586a03c6df42ccbfdb8147501fcbcf255478ececf1d4505f1b2bb49428930fd4d535abc7033fb9dec3e9a320d5832168264b15cb2cb70f053d775b2.mp3",
+    "title": "Queen Tomyris with the Head of Cyrus"
+  },
+  "15": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0e5c74b73bbb26b61df77c61826f05906d26e031cfa9a93aabb2a03f837bdcdf733ab78be23934a7cf383f7145fb44fbb58a056ee20bea324f69f17758896a368.mp3",
+    "title": "Oval Room"
+  },
+  "231": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0724c4e01ab0a91b3d719550436279a53aac8ae57118671518b31d98fd8f617763a68acb00208566d5c19203131bc7847e8e27b3c37174eaa89a36fde5a21849b.mp3",
+    "title": "Harmony in Pink and Grey: Portrait of Lady Meux"
+  },
+  "232": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d04059587ac2664c36d15ba269cc02cd585e8b2bfdecd1d57a45104fb9eb6884c62cd3b58000342236dd7b6f144501310e001e4c73d6ab7aaa0baa9d95825e777d.mp3",
+    "title": "Symphony in Flesh Colour and Pink: Portrait of Mrs. Frances Leyland"
+  },
+  "230": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0de8de898a9effd48bbf742f71b09b25647b7694c3f1c598eafa82150b62575ff16b639894a1ea52167d616566638fc8e3abcdb16b2c5a76d935fa2e17972d3b8.mp3",
+    "title": "Arrangement in Black and Gold: Comte Robert de Montesquiou-Fezensac"
+  },
+  "229": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d096bf3909ab28021cd923271720327ba2e92a7525afb57a24a58c6f5cfeb48fcada779c90d7dbc4c30e39917800fea9ea357f76c4bba6121beadb19c96b9786d2.mp3",
+    "title": "Arrangement in Brown and Black: Portrait of Miss Rosa Corder"
+  },
+  "16": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d011c97cfecc7859293771e3ef0eb25a41dbe3588e96acc6d04eb5a895c260d4307f133ea9d9481f5214d29aa8bbd03d4d05e9b8832d9b049f5aa9d21a4a165a6d.mp3",
+    "title": "East Gallery"
+  },
+  "116": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d065767f3be52941e3303ad8b860633676aad49866b779f9b6c0cf7b76d741800be1644fc016a370e6c36c222ea3dc82aa3319d3dd155b6e42f36d96b3af0dfa14.mp3",
+    "title": "Genoese Noblewoman"
+  },
+  "226": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d031f21fd876351679b793f2a76092d45175702e06820696b32b9e901261946cb774752b8323edc8f62520d23e6f70d8ad1a4695615661132d3ba6f8db144b0426.mp3",
+    "title": "Miss Mary Edwards"
+  },
+  "114": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d035fcfe0b1d0f61efb871be0cef2b770c29492efcbfc2282b9898d4ec0635ae26ba38027cf2f70ed76c4c3f8b8976ec13749e2e1c38af8b0a4616a834999bf9cf.mp3",
+    "title": "Lady Anne Carey, Later Viscountess Claneboye and Countess of Clanbrassil"
+  },
+  "117": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0379e06938508c074ad8bfb076b10ad83fee4e3add37d3fe98bb695e73ba3f48b4ce0c0e009425ef6566bb395f82f178633e194637182a01a931c4681af18e9df.mp3",
+    "title": "Sir John Suckling"
+  },
+  "227": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d073e080323f8472ca8269294b9ee7c839b17e3b49cf2522f0b245cad0324f0cb158473004fc6cb364410bf3f18b59c274ad606ab5f28eaa5ca1ff0f5e43cfec52.mp3",
+    "title": "General John Burgoyne"
+  },
+  "233": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0b009fbb7564d5fba40f9ed9425dd4abc19de781ec2d7eb437bb9f491489bf4cb51f30f0cf0361cced1c68e1b9a15dd1b26aa9747ce6f8300557dc41ab8f1c16f.mp3",
+    "title": "Alexandrine-Th\u00e9r\u00e8se Nardot, Comtesse Daru"
+  },
+  "115": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0663b4ae8f5727ece93d591442e88ee3ca4e8d4d32a4ce4d38fc934a88769fd288a3d7758e61b2ac3b08816047085f667f860b3f4810537b95a9cb419e17caea2.mp3",
+    "title": "James Stanley, Lord Strange, Later Seventh Earl of Derby, with His Wife, Charlotte, and Their Daughter"
+  },
+  "204": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d012a5d03e265ab873569a244487342bda4fab1098916c06693d1691cbc8e9a1a0736f7bd900d371f9a1d9088819d4369e170b8f8fd0876fdfd903d5256768a15c.mp3",
+    "title": "The Wool Winder"
+  },
+  "235": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d01338ec791810fa64fba9a7a8318f967cd7473dcf04900ed2174d3b0b093a53ab58ec44d053bf6510c9e2c95f682be2c6599509317a6e0eea22f65fcafd0e9c5d.mp3",
+    "title": "Camillo Borghese"
+  },
+  "185": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d048a909b0be1aeb25966b4435f3e412d4dd84ad7eeca8eb4fab24064d8858d76b30393248b5a21d14c1037ded3e1fe38a57c879f7ba30bca2f672eff3014443d1.mp3",
+    "title": "Portrait of a Lady (Mar\u00eda Mart\u00ednez de Puga?)"
+  },
+  "242": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0f77666b022442d0e4279d8353bbf30e6dd8794c32cc1b1d7a7a2100fe40c8402eadf405d0178efea7d2ec7cc75406325543fa0e8ba6425c2a1c2981af2deb3b6.mp3",
+    "title": "La Promenade"
+  },
+  "234": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0bbb8e6799267ecd079a0051fed2a275de1225975919480ea003448fbe6b4045ce6ba7e8a639fe412df266e25fe345a6825f4981d568c991748bb3d24fbee75e6.mp3",
+    "title": "Portrait of \u00c9tienne Vincent de Margnolas"
+  },
+  "17": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d08c0bc7b8687650ec8fa709b64f3d1d343bda219fe670acd3afa2700df6384b13a55e164de9034df453f177b6637e3b24524ffa8e394a93a1449395ddbe759571.mp3",
+    "title": "Garden Court"
+  },
+  "138": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0b1ef72a56b51fd5cd7b44bba7bd1baa959c2e6299a907321ec3254738d6dc646a13a2f62f626b2e110ba3afdb59599aecbfb3812c6c4f077d12cbf61c7763715.mp3",
+    "title": "Great Bustard"
+  },
+  "163": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0dc05281e1edf421c7fa23838aeb70ed6042d224f570f92475bf473d8de8e118761055ad6193b6cdda08f4cdde9843970eee8ed4dd29436d02a14f60904f9e35a.mp3",
+    "title": "Angel"
+  },
+  "141": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0eac1216ea73d477a8dad0e906c2c42c8dec02050f38957caf3cdc8b218e595b33ccd53d2fe81e293222610a9c5a01f539ef1153711dcb92a85eaabd13bff0b4f.mp3",
+    "title": "Antonio Galli"
+  },
+  "140": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0203c2be551832392031abd55215317e04cefefd2393cb103cc25e56fa65ea67ca8b24623fedcd41eef3ff7b6ae2bf3a168a268dff2c1a7871a2d10a1a199e3ef.mp3",
+    "title": "Bust of a Jurist (?)"
+  },
+  "145": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d08a733916760e872a23ae92a6d8fbc30f839eef3a40169dd8cc7942a97344ff3f8a5f9ed2cb45c7b604c9f8791da12b7a46f40e44d193634d57e9d0b6e4b8dac5.mp3",
+    "title": "Don Fernando \u00c1lvarez de Toledo, Third Duke of Alba"
+  },
+  "18": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0c34b4f0ce0c467c19dcd4deaa52d7b3839733fcff8d869acddad9f1ba5ca581c931cb622ed76e9667d5ed9d23566ea4c8178af107c553c226eea2105d6a7f1bc.mp3",
+    "title": "North Hall"
+  },
+  "106": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d038f981a6a1eb5461d3c360317eed781288e74505e4733e76b56538df3775b309daca142fbbba73c456142203e2d62156a7d07e73871aa7aedfe314cd96c6d296.mp3",
+    "title": "Landscape with Farmhouse"
+  },
+  "212": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0ad0705507c411c1726be5624e5da81ad5c55e4be6228f7293c241e493235026f46c3eda1080ba9d0a7fd490b8fbf1cecc069e7046a488ed602d513523bd5b91e.mp3",
+    "title": "Side Table"
+  },
+  "19": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0c34b4f0ce0c467c19dcd4deaa52d7b3839733fcff8d869acddad9f1ba5ca581c931cb622ed76e9667d5ed9d23566ea4c8178af107c553c226eea2105d6a7f1bc.mp3",
+    "title": "South Hall"
+  },
+  "119": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d08e7cc02a697002ebf0ea79224770e303175b0f251c601b4f1c4d73cc8a2840f39133677dd630998041e6ad545e19d440b4693b6132e7283c11827e32d362c731.mp3",
+    "title": "Girl Interrupted at Her Music"
+  },
+  "182": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d07683b86923df5bfaf18e0795ae2d213da098593da3f5e7939493876c70051831069a2d428e58ac434ff4a4f9eef757e69c27e70e8ceb6cbe5efc63a3984654f9.mp3",
+    "title": "Self-Portrait"
+  },
+  "120": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0bef1a6db9e5f5e0410ea11b1d9189b9a466f7bed4b22b312f099b0865552566cc88d91ab5f718914b2fe1b34c2385150d798a1929c20bd0b02991a14a73eb35e.mp3",
+    "title": "Officer and Laughing Girl"
+  },
+  "143": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0160e51cdf5a20324789b6898f367c8681c77a5455813d5be72d5630533b045daf93c0547d6941e0ef1fe0b96ae412dedb296ccd1f61064a33d1f58466082b412.mp3",
+    "title": "Lodovico Capponi"
+  },
+  "20": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0e7d470a8279c3e7ef2a2bccfdb9fa2740f3fb3260852c1fc8ee0542391310dff0a49ef4e1702665add5c3a554dc9154bd269d7a7a62ae0da828b37dcc2e23543.mp3",
+    "title": "Foot of Stairs & Landing"
+  },
+  "215": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d00c538fe890b2b3cbfabdf227f68d5fcf77909595ce612dd9d1a503ce4820ec84441b747ae1f1abd3fff4660df62f88c5e720d3c3de499219666933fde86da15b.mp3",
+    "title": "Longcase Regulator Clock"
+  },
+  "21": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0d51b949d25c4a22c1eab916566a12677579a1c8da10b761f4c823e29e357f5c54705b624ebaea9e4652ce691c60e48b1f2bd9543a32b9d150206ab1b6a485ed9.mp3",
+    "title": "Grand Stair Hall"
+  },
+  "22": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0c664e8f8c56132632c8ed3f4f9ba81cdab6fdc140435b479bc2615be3481f806687f742ecc974e7d4abf6d183e52bb9230db1a79aa8297b9a57352c2b0f22a48.mp3",
+    "title": "Breakfast Room"
+  },
+  "125": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d06a1fce9ea5f47da36b290aaaa22c2cd216413f989f02ccdaa26f7ddb8275cc2668638873effdda47af020185cd526421d40360ba612ba8c89946c4f33d946ac8.mp3",
+    "title": "The Village of Becquigny"
+  },
+  "32": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d095b34e9834b3f4f5afbcb23c1ae20ea5dc18dc84c810760150da7245b70ad3442ecce2208d1db19c7b4d8cf50f1da2e37c72898a75e4db357a1826ec93612afe.mp3",
+    "title": "Medals Room"
+  },
+  "24": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d051d4062bb6b4fd30786b8b09332daaf157fc1f07eb07bfa756bbc870ea90fa917b2d0364777278b7922b294a489ecb5c46360a1e521f1f77e240afd5109afc68.mp3",
+    "title": "Impressionist Room"
+  },
+  "241": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d04b90167ae16912edf003141fc8b6d44340e3197d41e999b1c8a99b27feaac97d13ba1c4939df62f6f3a0d5e5fc7f9cbd905a89cfe9f398c85fd0a7a0950658f4.mp3",
+    "title": "V\u00e9theuil in Winter"
+  },
+  "240": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d03136808dc33b1cf58568a2d8daf2842b89cf1ea5a43d23c36e15e97d94f326a8b206639b5e9965c0583c069911a2f5e4f9f49442b503076ce18b64d7faa4d3b6.mp3",
+    "title": "The Rehearsal"
+  },
+  "239": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d00b0d4024b10fe4c272cac8d31b7a5626b5e6824ba531d441fdc03b774b69a5ae9df72196af6664287829a979355c269c6de9c8e7026a1c5bc9d50e373108249b.mp3",
+    "title": "The Bullfight"
+  },
+  "203": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d065a30fcc101e8dc86f634ec5255608f38f76321006838c766bdb4e720ea35f79e49aab430b389d91c3ec369d94c763b0881431e2889eabfb9c05d0f9dbbc7e33.mp3",
+    "title": "The Portal of Valenciennes"
+  },
+  "26": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0295de837013c50387edfc7e7383f8d7163058fec27bd53d7a06f029e815d54d39a536f9877074ee8671ac421365d09f884050aead173c8103e900ed53791dd8e.mp3",
+    "title": "Du Paquier Passage"
+  },
+  "29": {
+    "url": "https://assets.bloombergconnects.org/assets/9d9d1a085e20328a1456acc092c66f38cf08bc8ebf8cc3401956ba3b1ddd8ef4dfaad145c36a42ff25042540d326b41d9148dd7d7dc44e2f4d8fc47dd277f1d0d50abf8e333d196f4cda45411f682cf1aa8dbbfb0e8357d76780e8160e5a36e1c2f460cf8c58528a8143a6537ae66cf0bfc5d38ae73fcbca928dbd08c0c4b031.mp3",
+    "title": "Ceramics Room"
   }
 }

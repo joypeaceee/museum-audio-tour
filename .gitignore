@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 test_playwright.py
 *.zip
+DEVMATE_CONTEXT.md
+build_cache.py
+build_frick_cache.py
