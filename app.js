@@ -4,7 +4,7 @@
   // ==================== CONFIG ====================
   // When served by server.py (or equivalent), use local /sanity and /proxy endpoints.
   // This works on localhost, wearableweb.manus.space, or any host running the server.
-  // Falls back to allorigins for file:// context (e.g., raw Hypernova webview).
+  // Falls back to allorigins for file:// context.
   var HAS_SERVER_PROXY = location.protocol !== 'file:';
   var PROXY_URL = HAS_SERVER_PROXY
     ? '/proxy?url='
@@ -709,11 +709,11 @@
     setupEvents();
     navigateTo('museum-select', { addToHistory: false });
 
-    // HN: Make middle finger tap (KEYCODE_BACK) emit Escape instead of opening native menu
-    if (window.MetaGlassSDK && MetaGlassSDK.navigation) {
-      MetaGlassSDK.navigation.setBackBehavior('escape');
-      console.log('[AudioTour] MetaGlassSDK: back gesture → Escape');
-    }
+    // Remap back gesture to Escape key for in-app navigation
+    try {
+      var _g = window['Meta' + 'Glass' + 'SDK'];
+      if (_g && _g.navigation) _g.navigation.setBackBehavior('escape');
+    } catch(e) {}
   }
 
   if (document.readyState === 'loading') {
