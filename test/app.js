@@ -591,11 +591,10 @@
         'autoHandwriting?', hasAuto, 'handwriting?', hasManual);
       // Defensive: ensure auto-handwriting is on. Docs say "enabled by default" but the
       // module appears to be lazily constructed — explicit enable() is recommended.
+      // Note: the published API exposes enable()/disable() only; no isEnabled().
       if (hasAuto && typeof sdk.autoHandwriting.enable === 'function') {
         sdk.autoHandwriting.enable();
-        var nowEnabled = typeof sdk.autoHandwriting.isEnabled === 'function'
-          ? sdk.autoHandwriting.isEnabled() : 'unknown';
-        console.log('[EMG] autoHandwriting.enable() called; isEnabled =', nowEnabled);
+        console.log('[EMG] autoHandwriting.enable() called');
       }
     } catch (e) {
       console.log('[EMG] detection failed:', e && e.message);
