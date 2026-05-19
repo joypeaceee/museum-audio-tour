@@ -52,17 +52,13 @@
           <div class="stop-number" id="stop-number-display">---</div>
           <button class="clear-btn focusable" data-action="num-clear" aria-label="Clear stop number">&#10005;</button>
         </div>
-        <!-- EMG Handwriting Strip -->
-        <div class="hw-strip" id="hw-strip">
-          <button class="hw-strip__activator focusable" data-action="hw-activate" id="hw-box">
-            <span class="hw-strip__icon">&#9998;</span>
-            <span class="hw-strip__canvas-wrap">
-              <canvas id="hw-canvas" width="320" height="40"></canvas>
-              <span class="hw-strip__placeholder" id="hw-placeholder">Handwrite digits</span>
-              <span class="hw-strip__preview" id="hw-preview"></span>
-            </span>
-          </button>
-        </div>
+        <!-- EMG Handwriting Strip — auto-handwriting triggers on focus via Hypernova runtime -->
+        <label class="hw-strip" for="hw-input">
+          <span class="hw-strip__icon">&#9998;</span>
+          <span class="hw-strip__field-wrap">
+            <input class="hw-strip__input focusable" id="hw-input" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="6" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Handwrite digits">
+          </span>
+        </label>
         <div class="numpad">
           <button class="numpad-btn focusable delete-btn" data-action="num-delete">&#9003;</button>
           <button class="numpad-btn focusable" data-action="num" data-digit="0">0</button>

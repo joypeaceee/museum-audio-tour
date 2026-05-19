@@ -183,35 +183,25 @@ body {
 }
 
 /* --- EMG Handwriting Strip --- */
+/* On Hypernova, focusing #hw-input triggers EMG auto-handwriting (runtime-injected,
+   no SDK reference in our code). On other browsers, it behaves as a normal text input. */
 .hw-strip {
-  display: flex;
-  align-items: stretch;
-  gap: 8px;
-  height: 56px;
-  padding: 0 8px;
-  position: relative;
-  max-width: 340px;
-  width: 100%;
-  margin: 0 auto;
-}
-
-.hw-strip__activator {
-  flex: 1;
   display: flex;
   align-items: center;
   gap: 10px;
+  height: 56px;
   padding: 0 12px;
+  max-width: 340px;
+  width: 100%;
+  margin: 0 auto;
   background: var(--bg-tertiary);
   border-radius: var(--radius-md);
   border: 2px dashed transparent;
-  position: relative;
-  overflow: hidden;
-  color: var(--text-primary);
-  text-align: left;
-  min-height: 56px;
+  cursor: text;
+  transition: all 0.15s ease;
 }
 
-.hw-strip__activator.active {
+.hw-strip:focus-within {
   background: var(--bg-card);
   border: 2px dashed var(--accent-primary);
   box-shadow: 0 0 16px var(--focus-glow);
@@ -223,55 +213,33 @@ body {
   flex-shrink: 0;
 }
 
-.hw-strip__canvas-wrap {
-  position: relative;
+.hw-strip__field-wrap {
   flex: 1;
-  height: 100%;
   display: flex;
   align-items: center;
 }
 
-#hw-canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
+.hw-strip__input {
+  flex: 1;
   width: 100%;
-  height: 100%;
-  display: block;
-  touch-action: none;
-  pointer-events: none;
-}
-
-.hw-strip__activator.active #hw-canvas {
-  pointer-events: auto;
-}
-
-.hw-strip__placeholder {
-  color: var(--text-muted);
-  font-size: 13px;
-  font-style: italic;
-  pointer-events: none;
-  position: relative;
-  z-index: 1;
-}
-
-.hw-strip__activator.active .hw-strip__placeholder {
-  display: none;
-}
-
-.hw-strip__preview {
-  position: absolute;
-  right: 8px;
-  top: 50%;
-  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--accent-secondary);
   font-family: 'SF Mono', 'Menlo', 'Courier New', monospace;
   font-size: 18px;
   font-weight: 700;
-  color: var(--accent-secondary);
-  opacity: 0.45;
   letter-spacing: 2px;
-  pointer-events: none;
-  z-index: 2;
+  padding: 0;
+  min-height: 44px;
+}
+
+.hw-strip__input::placeholder {
+  color: var(--text-muted);
+  font-style: italic;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0;
 }
 
 /* --- Numpad --- */

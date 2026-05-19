@@ -552,253 +552,20 @@
       });
   }
 
-  // ==================== EMG HANDWRITING ====================
-  // Simulates EMG-driven handwriting input on a wristband: a canvas captures
-  // pointer/finger strokes, the Web Handwriting Recognition API converts to
-  // text (digits only), and an "index tap" (Enter button) commits the input.
-  var hwState = {
-    active: false,
-    strokes: [],          // array of { points: [{x,y,t}], ... }
-    currentStroke: null,
-    drawing: null,        // active HandwritingDrawing
-    recognizer: null,
-    recognizerTried: false,
-    recognizedText: '',
-    canvas: null,
-    ctx: null,
-    recognizeTimer: null
-  };
-
-  function initHwRecognizer() {
-    if (hwState.recognizerTried) return Promise.resolve(hwState.recognizer);
-    hwState.recognizerTried = true;
-    if (!navigator.createHandwritingRecognizer) {
-      console.log('[HW] Handwriting Recognition API not available');
-      return Promise.resolve(null);
-    }
-    return navigator.createHandwritingRecognizer({
-      languages: ['en']
-    }).then(function(r) {
-      hwState.recognizer = r;
-      console.log('[HW] Recognizer ready');
-      return r;
-    }).catch(function(e) {
-      console.log('[HW] Recognizer init failed:', e.message);
-      return null;
+  // ==================== EMG HANDWRITING (Hypernova) ====================
+  // On Hypernova, focusing #hw-input triggers EMG auto-handwriting via the runtime —
+  // recognized digits are written directly into the input. We just listen for the
+  // resulting `input` event and mirror the value into state.stopNumber. No SDK
+  // references in this code; the input behaves as a normal text field elsewhere.
+  function setupHwInputBridge() {
+    var input = document.getElementById('hw-input');
+    if (!input) return;
+    input.addEventListener('input', function() {
+      var digits = (input.value || '').replace(/\D/g, '').slice(0, 6);
+      if (digits !== input.value) input.value = digits;
+      state.stopNumber = digits;
+      updateStopDisplay({ skipInput: true });
     });
-  }
-
-  function getHwCanvas() {
-    if (!hwState.canvas) {
-      hwState.canvas = document.getElementById('hw-canvas');
-      if (hwState.canvas) {
-        // Match backing buffer to display size for crisp lines
-        var rect = hwState.canvas.getBoundingClientRect();
-        if (rect.width > 0) {
-          hwState.canvas.width = Math.round(rect.width);
-          hwState.canvas.height = Math.round(rect.height);
-        }
-        hwState.ctx = hwState.canvas.getContext('2d');
-        hwState.ctx.strokeStyle = '#00d4ff';
-        hwState.ctx.lineWidth = 3;
-        hwState.ctx.lineCap = 'round';
-        hwState.ctx.lineJoin = 'round';
-      }
-    }
-    return hwState.canvas;
-  }
-
-  function clearHwCanvas() {
-    var canvas = getHwCanvas();
-    if (!canvas) return;
-    hwState.ctx.clearRect(0, 0, canvas.width, canvas.height);
-  }
-
-  function updateHwPreview(text) {
-    var preview = document.getElementById('hw-preview');
-    if (preview) preview.textContent = text || '';
-    syncHwClearBtn();
-  }
-
-  function syncHwClearBtn() {
-    var clearBtn = document.getElementById('hw-clear-btn');
-    if (!clearBtn) return;
-    if (hwState.active && hwState.strokes.length > 0) {
-      clearBtn.classList.remove('hidden');
-    } else {
-      clearBtn.classList.add('hidden');
-    }
-  }
-
-  function activateHandwriting() {
-    if (hwState.active) return;
-    hwState.active = true;
-    hwState.strokes = [];
-    hwState.recognizedText = '';
-    var box = document.getElementById('hw-box');
-    if (box) box.classList.add('active');
-    var placeholder = document.getElementById('hw-placeholder');
-    if (placeholder) placeholder.classList.add('hidden');
-    syncHwClearBtn();
-    clearHwCanvas();
-    updateHwPreview('');
-    initHwRecognizer();
-    // Resize the canvas to its laid-out size now that it's visible
-    var canvas = hwState.canvas || getHwCanvas();
-    if (canvas) {
-      var rect = canvas.getBoundingClientRect();
-      if (rect.width > 0 && Math.round(rect.width) !== canvas.width) {
-        canvas.width = Math.round(rect.width);
-        canvas.height = Math.round(rect.height);
-        hwState.ctx.strokeStyle = '#00d4ff';
-        hwState.ctx.lineWidth = 3;
-        hwState.ctx.lineCap = 'round';
-        hwState.ctx.lineJoin = 'round';
-      }
-    }
-  }
-
-  function deactivateHandwriting() {
-    hwState.active = false;
-    var box = document.getElementById('hw-box');
-    if (box) box.classList.remove('active');
-    var placeholder = document.getElementById('hw-placeholder');
-    if (placeholder) placeholder.classList.remove('hidden');
-    hwState.strokes = [];
-    hwState.currentStroke = null;
-    hwState.recognizedText = '';
-    syncHwClearBtn();
-    clearHwCanvas();
-    updateHwPreview('');
-  }
-
-  function clearHandwriting() {
-    hwState.strokes = [];
-    hwState.currentStroke = null;
-    hwState.recognizedText = '';
-    clearHwCanvas();
-    updateHwPreview('');
-  }
-
-  function commitHandwriting() {
-    var hadToast = false;
-    var digits = (hwState.recognizedText || '').replace(/\D/g, '');
-    if (digits) {
-      var allowed = 6 - state.stopNumber.length;
-      if (allowed > 0) {
-        state.stopNumber += digits.slice(0, allowed);
-        updateStopDisplay();
-        showToast('Entered: ' + digits.slice(0, allowed));
-      } else {
-        showToast('Stop number is full', 'error');
-      }
-      hadToast = true;
-    } else if (hwState.strokes.length > 0) {
-      showToast('Could not recognize digits', 'error');
-      hadToast = true;
-    }
-    deactivateHandwriting();
-    return hadToast;
-  }
-
-  function scheduleRecognize() {
-    if (hwState.recognizeTimer) clearTimeout(hwState.recognizeTimer);
-    hwState.recognizeTimer = setTimeout(runRecognize, 250);
-  }
-
-  function runRecognize() {
-    if (hwState.strokes.length === 0) {
-      updateHwPreview('');
-      return;
-    }
-    initHwRecognizer().then(function(rec) {
-      if (!rec) {
-        // Fallback: indicate strokes were captured but recognition unavailable.
-        updateHwPreview('? (' + hwState.strokes.length + ' strokes)');
-        return;
-      }
-      try {
-        var drawing = rec.startDrawing({
-          recognitionType: 'text',
-          inputType: 'touch',
-          textContext: '',
-          alternatives: 1
-        });
-        hwState.strokes.forEach(function(s) {
-          var hs = new HandwritingStroke();
-          s.points.forEach(function(p) {
-            hs.addPoint({ x: p.x, y: p.y, t: p.t });
-          });
-          drawing.addStroke(hs);
-        });
-        drawing.getPrediction().then(function(predictions) {
-          if (predictions && predictions.length > 0) {
-            var raw = predictions[0].text || '';
-            var digits = raw.replace(/\D/g, '');
-            hwState.recognizedText = digits;
-            updateHwPreview(digits || '?');
-          } else {
-            updateHwPreview('?');
-          }
-          try { drawing.clear && drawing.clear(); } catch(e) {}
-        }).catch(function(err) {
-          console.log('[HW] Prediction failed:', err && err.message);
-          updateHwPreview('?');
-        });
-      } catch(e) {
-        console.log('[HW] Drawing error:', e.message);
-        updateHwPreview('?');
-      }
-    });
-  }
-
-  function setupHandwritingEvents() {
-    var canvas = getHwCanvas();
-    if (!canvas) return;
-
-    function getPoint(e) {
-      var rect = canvas.getBoundingClientRect();
-      var scaleX = canvas.width / rect.width;
-      var scaleY = canvas.height / rect.height;
-      return {
-        x: (e.clientX - rect.left) * scaleX,
-        y: (e.clientY - rect.top) * scaleY,
-        t: Date.now()
-      };
-    }
-
-    canvas.addEventListener('pointerdown', function(e) {
-      if (!hwState.active) return;
-      e.preventDefault();
-      e.stopPropagation();
-      try { canvas.setPointerCapture(e.pointerId); } catch(_) {}
-      var p = getPoint(e);
-      hwState.currentStroke = { points: [p] };
-      hwState.ctx.beginPath();
-      hwState.ctx.moveTo(p.x, p.y);
-    });
-
-    canvas.addEventListener('pointermove', function(e) {
-      if (!hwState.active || !hwState.currentStroke) return;
-      e.preventDefault();
-      var p = getPoint(e);
-      hwState.currentStroke.points.push(p);
-      hwState.ctx.lineTo(p.x, p.y);
-      hwState.ctx.stroke();
-    });
-
-    function finishStroke(e) {
-      if (!hwState.active || !hwState.currentStroke) return;
-      e && e.preventDefault && e.preventDefault();
-      hwState.strokes.push(hwState.currentStroke);
-      hwState.currentStroke = null;
-      syncHwClearBtn();
-      scheduleRecognize();
-    }
-
-    canvas.addEventListener('pointerup', finishStroke);
-    canvas.addEventListener('pointercancel', finishStroke);
-    canvas.addEventListener('pointerleave', finishStroke);
   }
 
   // ==================== ACTIONS ====================
@@ -829,26 +596,19 @@
         }
         break;
       case 'num-clear':
-        if (hwState.active) deactivateHandwriting();
         state.stopNumber = '';
         updateStopDisplay();
         break;
       case 'num-delete':
-        if (hwState.active && hwState.strokes.length > 0) {
-          clearHandwriting();
-        } else if (state.stopNumber.length > 0) {
+        if (state.stopNumber.length > 0) {
           state.stopNumber = state.stopNumber.slice(0, -1);
           updateStopDisplay();
         }
         break;
       case 'num-go':
-        var hwShowedToast = false;
-        if (hwState.active) {
-          hwShowedToast = commitHandwriting();
-        }
         if (state.stopNumber.length > 0) {
           navigateTo('audio-player');
-        } else if (!hwShowedToast) {
+        } else {
           showToast('Enter a stop number first', 'error');
         }
         break;
@@ -866,23 +626,15 @@
           }
         }
         break;
-      case 'hw-activate':
-        if (!hwState.active) {
-          activateHandwriting();
-        }
-        break;
-      case 'hw-clear':
-        clearHandwriting();
-        break;
-      case 'hw-enter':
-        // "Index tap" — commit the recognized digits and exit handwriting mode
-        commitHandwriting();
-        break;
     }
   }
 
-  function updateStopDisplay() {
+  function updateStopDisplay(opts) {
     document.getElementById('stop-number-display').textContent = state.stopNumber || '---';
+    if (!opts || !opts.skipInput) {
+      var input = document.getElementById('hw-input');
+      if (input && input.value !== state.stopNumber) input.value = state.stopNumber;
+    }
   }
 
   // ==================== SCREEN ENTER ====================
@@ -891,8 +643,9 @@
       var museum = MUSEUMS[state.selectedMuseum];
       if (museum) document.getElementById('stop-entry-title').textContent = museum.name;
       updateStopDisplay();
-      // Reset handwriting box to inactive state each time we enter the screen
-      deactivateHandwriting();
+      // Clear the handwriting input each time we enter the screen
+      var hwInput = document.getElementById('hw-input');
+      if (hwInput) hwInput.value = state.stopNumber;
     }
     if (screenId === 'audio-player') {
       var museum = MUSEUMS[state.selectedMuseum];
@@ -955,6 +708,8 @@
         case 'Escape': navigateBack(); e.preventDefault(); break;
         case '0': case '1': case '2': case '3': case '4':
         case '5': case '6': case '7': case '8': case '9':
+          // Let the hw-input handle digit keys natively when it has focus
+          if (document.activeElement && document.activeElement.id === 'hw-input') break;
           if (state.currentScreen === 'stop-entry' && state.stopNumber.length < 6) {
             state.stopNumber += e.key;
             updateStopDisplay();
@@ -962,6 +717,8 @@
           }
           break;
         case 'Backspace':
+          // Let the hw-input handle backspace natively when it has focus
+          if (document.activeElement && document.activeElement.id === 'hw-input') break;
           if (state.currentScreen === 'stop-entry' && state.stopNumber.length > 0) {
             state.stopNumber = state.stopNumber.slice(0, -1);
             updateStopDisplay();
@@ -976,7 +733,7 @@
   function init() {
     collectScreens();
     setupAudioEvents();
-    setupHandwritingEvents();
+    setupHwInputBridge();
     setupEvents();
     navigateTo('museum-select', { addToHistory: false });
 
