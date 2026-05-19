@@ -553,19 +553,53 @@
   }
 
   // ==================== EMG HANDWRITING (Hypernova) ====================
-  // On Hypernova, focusing #hw-input triggers EMG auto-handwriting via the runtime —
-  // recognized digits are written directly into the input. We just listen for the
-  // resulting `input` event and mirror the value into state.stopNumber. No SDK
-  // references in this code; the input behaves as a normal text field elsewhere.
+  // On Hypernova, focusing #hw-input triggers EMG auto-handwriting via the runtime.
+  // The textbox is reserved for EMG (numpad never writes into it). On GO, whatever
+  // is in the textbox is appended to state.stopNumber (capped at 6) and committed.
   function setupHwInputBridge() {
     var input = document.getElementById('hw-input');
     if (!input) return;
     input.addEventListener('input', function() {
-      var digits = (input.value || '').replace(/\D/g, '').slice(0, 6);
-      if (digits !== input.value) input.value = digits;
-      state.stopNumber = digits;
-      updateStopDisplay({ skipInput: true });
+      // Keep digits only and cap combined length to 6.
+      var raw = (input.value || '').replace(/\D/g, '');
+      var room = Math.max(0, 6 - state.stopNumber.length);
+      var trimmed = raw.slice(0, room);
+      if (trimmed !== input.value) input.value = trimmed;
     });
+  }
+
+  // Combine numpad-entered digits with EMG-entered digits (textbox) into the final stop #.
+  function commitHwInputToStop() {
+    var input = document.getElementById('hw-input');
+    if (!input) return;
+    var emg = (input.value || '').replace(/\D/g, '');
+    if (!emg) return;
+    var room = Math.max(0, 6 - state.stopNumber.length);
+    state.stopNumber += emg.slice(0, room);
+    input.value = '';
+    updateStopDisplay();
+  }
+
+  function logEmgEnvironment() {
+    try {
+      var sdk = window['Meta' + 'Glass' + 'SDK'];
+      var supported = !!(sdk && sdk.isSupported);
+      var version = sdk && sdk.version;
+      var hasAuto = !!(sdk && sdk.autoHandwriting);
+      var hasManual = !!(sdk && sdk.handwriting);
+      console.log('[EMG] sdk?', !!sdk, 'supported?', supported, 'version', version,
+        'autoHandwriting?', hasAuto, 'handwriting?', hasManual);
+      // Defensive: ensure auto-handwriting is on. Docs say "enabled by default" but the
+      // module appears to be lazily constructed — explicit enable() is recommended.
+      if (hasAuto && typeof sdk.autoHandwriting.enable === 'function') {
+        sdk.autoHandwriting.enable();
+        var nowEnabled = typeof sdk.autoHandwriting.isEnabled === 'function'
+          ? sdk.autoHandwriting.isEnabled() : 'unknown';
+        console.log('[EMG] autoHandwriting.enable() called; isEnabled =', nowEnabled);
+      }
+    } catch (e) {
+      console.log('[EMG] detection failed:', e && e.message);
+    }
   }
 
   // ==================== ACTIONS ====================
@@ -593,19 +627,28 @@
         if (state.stopNumber.length < 6) {
           state.stopNumber += element.dataset.digit;
           updateStopDisplay();
+          trimHwInputToFit();
         }
         break;
       case 'num-clear':
         state.stopNumber = '';
+        var input = document.getElementById('hw-input');
+        if (input) input.value = '';
         updateStopDisplay();
         break;
       case 'num-delete':
-        if (state.stopNumber.length > 0) {
+        // Backspace targets EMG textbox first (last-typed wins), then big-display state.
+        var hwIn = document.getElementById('hw-input');
+        if (hwIn && hwIn.value) {
+          hwIn.value = hwIn.value.slice(0, -1);
+        } else if (state.stopNumber.length > 0) {
           state.stopNumber = state.stopNumber.slice(0, -1);
           updateStopDisplay();
         }
         break;
       case 'num-go':
+        // Commit any pending EMG digits into state.stopNumber, then navigate.
+        commitHwInputToStop();
         if (state.stopNumber.length > 0) {
           navigateTo('audio-player');
         } else {
@@ -629,12 +672,19 @@
     }
   }
 
-  function updateStopDisplay(opts) {
+  function updateStopDisplay() {
     document.getElementById('stop-number-display').textContent = state.stopNumber || '---';
-    if (!opts || !opts.skipInput) {
-      var input = document.getElementById('hw-input');
-      if (input && input.value !== state.stopNumber) input.value = state.stopNumber;
-    }
+    // NOTE: never write state.stopNumber into #hw-input — the textbox is reserved for
+    // EMG handwriting scratch input only.
+  }
+
+  // After numpad input grows state.stopNumber, trim hw-input so combined stays ≤ 6.
+  function trimHwInputToFit() {
+    var input = document.getElementById('hw-input');
+    if (!input) return;
+    var room = Math.max(0, 6 - state.stopNumber.length);
+    var raw = (input.value || '').replace(/\D/g, '');
+    if (raw.length > room) input.value = raw.slice(0, room);
   }
 
   // ==================== SCREEN ENTER ====================
@@ -643,9 +693,9 @@
       var museum = MUSEUMS[state.selectedMuseum];
       if (museum) document.getElementById('stop-entry-title').textContent = museum.name;
       updateStopDisplay();
-      // Clear the handwriting input each time we enter the screen
+      // Clear the handwriting scratchpad input each time we enter the screen
       var hwInput = document.getElementById('hw-input');
-      if (hwInput) hwInput.value = state.stopNumber;
+      if (hwInput) hwInput.value = '';
     }
     if (screenId === 'audio-player') {
       var museum = MUSEUMS[state.selectedMuseum];
@@ -736,6 +786,7 @@
     setupHwInputBridge();
     setupEvents();
     navigateTo('museum-select', { addToHistory: false });
+    logEmgEnvironment();
 
     // Remap back gesture to Escape key for in-app navigation
     try {
