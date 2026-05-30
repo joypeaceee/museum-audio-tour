@@ -1,4 +1,4 @@
-# Hypernova EMG Handwriting Input — Use Auto-Handwriting on a Focused `<input>`
+# Display Glass EMG Handwriting Input — Use Auto-Handwriting on a Focused `<input>`
 
 ## Context
 
